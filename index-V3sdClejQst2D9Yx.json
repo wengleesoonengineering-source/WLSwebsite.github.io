@@ -1,0 +1,2096 @@
+{
+  "frames": [
+    {
+      "component": {
+        "COMPONENT_NAME_PREFIX": "",
+        "attributes": {
+          "id": "ivl1"
+        },
+        "components": [
+          {
+            "attributes": {
+              "href": "#main-content"
+            },
+            "classes": [
+              "skip-link"
+            ],
+            "components": [
+              {
+                "content": "Skip to main content",
+                "type": "textnode"
+              }
+            ],
+            "custom-name": "skip-to-main-content",
+            "type": "link"
+          },
+          {
+            "attributes": {
+              "id": "ib8wj"
+            },
+            "classes": [
+              "docs-main"
+            ],
+            "components": [
+              {
+                "attributes": {
+                  "id": "iyftflj"
+                },
+                "classes": [
+                  "silex-default-container"
+                ],
+                "components": [
+                  {
+                    "__symbol": "itapqe-2-2",
+                    "attributes": {
+                      "id": "itapqe-2",
+                      "src": "/assets/Gemini_Generated_Image_rrgc6arrgc6arrgc__1_-removebg-preview.png"
+                    },
+                    "type": "image"
+                  },
+                  {
+                    "__symbol": "iuhzi6d",
+                    "attributes": {
+                      "id": "i1fu0a7"
+                    },
+                    "components": [
+                      {
+                        "__symbol": "ivk7lsk",
+                        "attributes": {
+                          "id": "ijosooz"
+                        },
+                        "content": "Weng Lee Soon Engineering",
+                        "type": "textnode"
+                      }
+                    ],
+                    "tagName": "b",
+                    "type": "text"
+                  },
+                  {
+                    "__symbol": "if24wq2",
+                    "attributes": {
+                      "id": "iemxqnt"
+                    },
+                    "classes": [
+                      "silex-default-text"
+                    ],
+                    "type": "text"
+                  }
+                ],
+                "type": "container"
+              },
+              {
+                "attributes": {
+                  "id": "iozyf"
+                },
+                "classes": [
+                  "docs-hero"
+                ],
+                "components": [
+                  {
+                    "attributes": {
+                      "id": "iybg6"
+                    },
+                    "classes": [
+                      "docs-container"
+                    ],
+                    "components": [
+                      {
+                        "attributes": {
+                          "id": "iunth"
+                        },
+                        "classes": [
+                          "docs-hero__title"
+                        ],
+                        "components": [
+                          {
+                            "content": "singapore MARINE MECHANICAL SERVICES",
+                            "type": "textnode"
+                          }
+                        ],
+                        "tagName": "h1",
+                        "type": "text"
+                      },
+                      {
+                        "attributes": {
+                          "id": "isawlz"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "content": "Delivering expert project coordination, commercial precision, and skilled manpower for complex vessel overhauls across Singapore's major shipyards",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "attributes": {
+                          "id": "ibzr9"
+                        },
+                        "classes": [
+                          "docs-hero__actions"
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "tagName": "section"
+              },
+              {
+                "attributes": {
+                  "id": "if12e"
+                },
+                "classes": [
+                  "docs-section",
+                  "docs-section--alt"
+                ],
+                "components": [
+                  {
+                    "attributes": {
+                      "id": "iov89g",
+                      "src": "/assets/618585251281705810655555555.jpg"
+                    },
+                    "type": "image"
+                  },
+                  {
+                    "attributes": {
+                      "id": "ihvp7q",
+                      "src": "/assets/6185852512817058121.jpg"
+                    },
+                    "type": "image"
+                  },
+                  {
+                    "attributes": {
+                      "id": "i9trkb",
+                      "src": "/assets/618585251281705812211.jpg"
+                    },
+                    "type": "image"
+                  },
+                  {
+                    "attributes": {
+                      "id": "i4chly",
+                      "src": "/assets/6185852512817058154.jpg"
+                    },
+                    "type": "image"
+                  },
+                  {
+                    "attributes": {
+                      "id": "ifavv8",
+                      "src": "/assets/6185852512817058335.jpg"
+                    },
+                    "type": "image"
+                  },
+                  {
+                    "attributes": {
+                      "id": "ifavv8-4",
+                      "src": "/assets/6185852512817058332.jpg"
+                    },
+                    "type": "image"
+                  },
+                  {
+                    "attributes": {
+                      "id": "ifavv8-3",
+                      "src": "/assets/6185852512817058333.jpg"
+                    },
+                    "type": "image"
+                  },
+                  {
+                    "attributes": {
+                      "id": "ifavv8-2",
+                      "src": "/assets/6185852512817058334.jpg"
+                    },
+                    "type": "image"
+                  },
+                  {
+                    "attributes": {
+                      "id": "ic719"
+                    },
+                    "classes": [
+                      "docs-container"
+                    ],
+                    "components": [
+                      {
+                        "attributes": {
+                          "id": "i3u85"
+                        },
+                        "components": [
+                          {
+                            "content": "Our Services",
+                            "type": "textnode"
+                          }
+                        ],
+                        "tagName": "h2",
+                        "type": "text"
+                      },
+                      {
+                        "attributes": {
+                          "id": "igmco"
+                        },
+                        "classes": [
+                          "docs-features"
+                        ],
+                        "components": [
+                          {
+                            "attributes": {
+                              "id": "irldl"
+                            },
+                            "classes": [
+                              "docs-features__item"
+                            ],
+                            "components": [
+                              {
+                                "attributes": {
+                                  "href": "./docs.html#installation",
+                                  "id": "i8k7q"
+                                },
+                                "classes": [
+                                  "docs-card"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "id": "i4bgf"
+                                    },
+                                    "classes": [
+                                      "docs-card__icon"
+                                    ],
+                                    "content": "📦",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "id": "ibu95"
+                                    },
+                                    "classes": [
+                                      "docs-card__title"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "LNG & Cargo Pumps",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "h3",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "id": "i7uro"
+                                    },
+                                    "classes": [
+                                      "docs-card__description"
+                                    ],
+                                    "components": [
+                                      {
+                                        "attributes": {
+                                          "data-path-to-node": "4,2,0,0",
+                                          "id": "ij47p3"
+                                        },
+                                        "components": [
+                                          {
+                                            "content": "Extensive experience shifting and refitting heavy cargo systems, including Ebara LNG Cargo Main Pumps, Spray & Stripping Pumps, and High/Low-Duty Regas Pumps.",
+                                            "type": "textnode"
+                                          }
+                                        ],
+                                        "tagName": "span",
+                                        "type": "text"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "data-path-to-node": "4,2,0,1"
+                                        },
+                                        "components": [
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "attributes": {
+                                              "_nghost-ng-c2864241815": ""
+                                            },
+                                            "classes": [
+                                              "ng-star-inserted"
+                                            ],
+                                            "components": [
+                                              {
+                                                "attributes": {
+                                                  "_ngcontent-ng-c2864241815": ""
+                                                },
+                                                "classes": [
+                                                  "superscript"
+                                                ],
+                                                "components": [
+                                                  {
+                                                    "type": "comment"
+                                                  }
+                                                ],
+                                                "tagName": "sup"
+                                              }
+                                            ],
+                                            "tagName": "source-footnote"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          },
+                                          {
+                                            "type": "comment"
+                                          }
+                                        ],
+                                        "tagName": "span"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "_nghost-ng-c2319634590": "",
+                                          "ng-version": "0.0.0-PLACEHOLDER"
+                                        },
+                                        "tagName": "sources-carousel-inline"
+                                      }
+                                    ],
+                                    "tagName": "p",
+                                    "type": "text"
+                                  }
+                                ],
+                                "tagName": "a"
+                              },
+                              {
+                                "attributes": {
+                                  "href": "./guides.html#examples",
+                                  "id": "iapv3-2"
+                                },
+                                "classes": [
+                                  "docs-card"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "id": "izixz-2"
+                                    },
+                                    "classes": [
+                                      "docs-card__icon"
+                                    ],
+                                    "content": "💡",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "id": "im75o-2"
+                                    },
+                                    "classes": [
+                                      "docs-card__title"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Critical Safety Valves",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "h3",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "id": "icoqe-2"
+                                    },
+                                    "classes": [
+                                      "docs-card__description"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Overhaul and popping tests for critical safety systems, including EGB Safety Valves (up to DN3250mm), Isolating Valves, and Heating-up Steam Safety Valves",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "p",
+                                    "type": "text"
+                                  }
+                                ],
+                                "tagName": "a"
+                              }
+                            ]
+                          },
+                          {
+                            "attributes": {
+                              "id": "ifx8d"
+                            },
+                            "classes": [
+                              "docs-features__item"
+                            ],
+                            "components": [
+                              {
+                                "attributes": {
+                                  "href": "./docs.html#quickstart",
+                                  "id": "inwzi"
+                                },
+                                "classes": [
+                                  "docs-card"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "id": "iw7al"
+                                    },
+                                    "classes": [
+                                      "docs-card__icon"
+                                    ],
+                                    "content": "🚀",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "id": "i1nxx"
+                                    },
+                                    "classes": [
+                                      "docs-card__title"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Engine Room Machinery",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "h3",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "id": "i55qe"
+                                    },
+                                    "classes": [
+                                      "docs-card__description"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Precision overhauling of Central Fresh Water (CFW) Pumps, Main Engine Lube Oil (LO) Pumps, LO Crosshead Pumps, and ME Jacket FW Pumps",
+                                        "type": "textnode"
+                                      },
+                                      {
+                                        "tagName": "br",
+                                        "void": true
+                                      },
+                                      {
+                                        "tagName": "br",
+                                        "void": true
+                                      }
+                                    ],
+                                    "tagName": "p",
+                                    "type": "text"
+                                  }
+                                ],
+                                "tagName": "a"
+                              },
+                              {
+                                "attributes": {
+                                  "href": "./guides.html#examples",
+                                  "id": "iapv3-2-2"
+                                },
+                                "classes": [
+                                  "docs-card"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "id": "izixz-2-2"
+                                    },
+                                    "classes": [
+                                      "docs-card__icon"
+                                    ],
+                                    "components": [
+                                      {
+                                        "attributes": {
+                                          "id": "i5x35y3"
+                                        },
+                                        "components": [
+                                          {
+                                            "content": "📖",
+                                            "type": "textnode"
+                                          }
+                                        ],
+                                        "tagName": "span",
+                                        "type": "text"
+                                      }
+                                    ],
+                                    "type": "text"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "id": "im75o-2-2"
+                                    },
+                                    "classes": [
+                                      "docs-card__title"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Deck Machinery & Winches",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "h3",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "id": "icoqe-2-2"
+                                    },
+                                    "classes": [
+                                      "docs-card__description"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Overhauling of deck equipment, including windlass and mooring winch hydraulic motors. We execute complete anchor system servicing and brake lining replacements",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "p",
+                                    "type": "text"
+                                  }
+                                ],
+                                "tagName": "a"
+                              }
+                            ]
+                          },
+                          {
+                            "attributes": {
+                              "id": "ipoog"
+                            },
+                            "classes": [
+                              "docs-features__item"
+                            ],
+                            "components": [
+                              {
+                                "attributes": {
+                                  "href": "./guides.html#api",
+                                  "id": "io5s4"
+                                },
+                                "classes": [
+                                  "docs-card"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "id": "ixj3v"
+                                    },
+                                    "classes": [
+                                      "docs-card__icon"
+                                    ],
+                                    "content": "📖",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "id": "ivn1g"
+                                    },
+                                    "classes": [
+                                      "docs-card__title"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Utility & Safety Pumps",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "h3",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "id": "itktp"
+                                    },
+                                    "classes": [
+                                      "docs-card__description"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Complete removal and installation of Seawater (SW) Pumps, Bilge Pumps, Water Mist System Pumps, and GW Circulation/Injection Pumps",
+                                        "type": "textnode"
+                                      },
+                                      {
+                                        "tagName": "br",
+                                        "void": true
+                                      },
+                                      {
+                                        "tagName": "br",
+                                        "void": true
+                                      }
+                                    ],
+                                    "tagName": "p",
+                                    "type": "text"
+                                  }
+                                ],
+                                "tagName": "a"
+                              },
+                              {
+                                "attributes": {
+                                  "href": "./guides.html#examples",
+                                  "id": "iapv3-2-2-2"
+                                },
+                                "classes": [
+                                  "docs-card"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "id": "izixz-2-2-2"
+                                    },
+                                    "classes": [
+                                      "docs-card__icon"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "📦",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "type": "text"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "id": "im75o-2-2-2"
+                                    },
+                                    "classes": [
+                                      "docs-card__title"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Overhead Cranes Overhauls",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "h3",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "id": "icoqe-2-2-2"
+                                    },
+                                    "classes": [
+                                      "docs-card__description"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Servicing of Aft & EOT cranes and monorail hoists. We handle wire rope replacements, brake pad renewals, and complete winch motor overhauls for internal vessel lifting gear.",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "p",
+                                    "type": "text"
+                                  }
+                                ],
+                                "tagName": "a"
+                              }
+                            ]
+                          },
+                          {
+                            "attributes": {
+                              "id": "ins2a"
+                            },
+                            "classes": [
+                              "docs-features__item"
+                            ],
+                            "components": [
+                              {
+                                "attributes": {
+                                  "href": "./guides.html#examples",
+                                  "id": "iapv3"
+                                },
+                                "classes": [
+                                  "docs-card"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "id": "izixz"
+                                    },
+                                    "classes": [
+                                      "docs-card__icon"
+                                    ],
+                                    "content": "💡",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "id": "im75o"
+                                    },
+                                    "classes": [
+                                      "docs-card__title"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Boiler Mounting Valves",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "h3",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "id": "icoqe"
+                                    },
+                                    "classes": [
+                                      "docs-card__description"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Expert servicing of Oil Fired Boiler systems, including Steam to Consumers, Boiler Wash, Bottom Blow and Feed Water Inlet valves",
+                                        "type": "textnode"
+                                      },
+                                      {
+                                        "tagName": "br",
+                                        "void": true
+                                      },
+                                      {
+                                        "tagName": "br",
+                                        "void": true
+                                      }
+                                    ],
+                                    "tagName": "p",
+                                    "type": "text"
+                                  }
+                                ],
+                                "tagName": "a"
+                              },
+                              {
+                                "attributes": {
+                                  "href": "./guides.html#examples",
+                                  "id": "iapv3-2-2-2-2"
+                                },
+                                "classes": [
+                                  "docs-card"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "id": "izixz-2-2-2-2"
+                                    },
+                                    "classes": [
+                                      "docs-card__icon"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "🚀",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "type": "text"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "id": "im75o-2-2-2-2"
+                                    },
+                                    "classes": [
+                                      "docs-card__title"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Mechanical Overhauls",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "h3",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "id": "icoqe-2-2-2-2"
+                                    },
+                                    "classes": [
+                                      "docs-card__description"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "End-to-end component restoration, including mechanical seal replacements, shaft alignment, impeller inspections, bearing renewals, and static pressure testing",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "p",
+                                    "type": "text"
+                                  }
+                                ],
+                                "tagName": "a"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "attributes": {
+                      "id": "i7ts4lj"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "attributes": {
+                          "data-path-to-node": "4",
+                          "id": "ib5nw9r"
+                        },
+                        "components": [
+                          {
+                            "tagName": "br",
+                            "void": true
+                          }
+                        ],
+                        "tagName": "p",
+                        "type": "text"
+                      },
+                      {
+                        "attributes": {
+                          "id": "ivyyqfe"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "attributes": {
+                          "id": "it9e1j7"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "attributes": {
+                              "id": "i75sg9h"
+                            },
+                            "components": [
+                              {
+                                "attributes": {
+                                  "id": "ijfb3wf"
+                                },
+                                "components": [
+                                  {
+                                    "content": "ABOUT US",
+                                    "type": "textnode"
+                                  }
+                                ],
+                                "tagName": "b",
+                                "type": "text"
+                              }
+                            ],
+                            "tagName": "span",
+                            "type": "text"
+                          }
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "attributes": {
+                          "data-path-to-node": "3",
+                          "id": "ih4dq7k"
+                        },
+                        "components": [
+                          {
+                            "tagName": "br",
+                            "void": true
+                          },
+                          {
+                            "content": "Established in 1980, Weng Lee Soon Engineering is a premier marine construction and vessel repair contractor based in Singapore. For over four decades, we have built an industry reputation for mechanical precision and operational reliability, serving as a trusted partner to major shipyards for complex vessel installations, overhauls, and repairs. Having successfully serviced over 500 vessels ranging from commercial LNG tankers to complex FPSO conversions and major new builds, we deliver the turnkey mechanical solutions that keep maritime operations moving.",
+                            "type": "textnode"
+                          },
+                          {
+                            "tagName": "br",
+                            "void": true
+                          },
+                          {
+                            "tagName": "br",
+                            "void": true
+                          },
+                          {
+                            "content": "Our core strength lies in our highly deployable workforce of over 150 skilled marine specialists and our uncompromising commitment to safety. We specialize in the complete removal, overhauling, and refitting of critical shipboard systems, including LNG and cargo pumps, boiler mounting valves, deck winches, and overhead cranes. Operating heavily within top-tier facilities like Seatrium Tuas Boulevard Yard, our mechanical teams are fully certified to execute high-stakes equipment servicing to exacting international marine standards.",
+                            "type": "textnode"
+                          }
+                        ],
+                        "tagName": "p",
+                        "type": "text"
+                      }
+                    ],
+                    "type": "container"
+                  },
+                  {
+                    "attributes": {
+                      "id": "ilwg7vq"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "attributes": {
+                          "id": "ixuehjo"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "components": [
+                              {
+                                "content": "Singapore Office:",
+                                "type": "textnode"
+                              }
+                            ],
+                            "tagName": "b",
+                            "type": "text"
+                          },
+                          {
+                            "tagName": "br",
+                            "void": true
+                          },
+                          {
+                            "content": "10 Buroh St, #02-20 ",
+                            "type": "textnode"
+                          },
+                          {
+                            "tagName": "br",
+                            "void": true
+                          },
+                          {
+                            "content": "West Connect Building, ",
+                            "type": "textnode"
+                          },
+                          {
+                            "tagName": "br",
+                            "void": true
+                          },
+                          {
+                            "content": "Singapore 627564",
+                            "type": "textnode"
+                          },
+                          {
+                            "tagName": "br",
+                            "void": true
+                          },
+                          {
+                            "content": "HP: +65 9133 0792",
+                            "type": "textnode"
+                          },
+                          {
+                            "tagName": "br",
+                            "void": true
+                          },
+                          {
+                            "content": "Email: wengleesoonengineering@gmail.com",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      }
+                    ],
+                    "type": "container"
+                  },
+                  {
+                    "attributes": {
+                      "id": "ihzl2ek"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "attributes": {
+                          "id": "ir10l8t",
+                          "type": "checkbox"
+                        },
+                        "type": "checkbox",
+                        "void": true
+                      },
+                      {
+                        "attributes": {
+                          "frameborder": 0,
+                          "id": "i5uictk"
+                        },
+                        "resizable": {
+                          "ratioDefault": 1
+                        },
+                        "src": "https://maps.google.com/maps?&z=1&t=q&output=embed",
+                        "type": "map"
+                      }
+                    ],
+                    "type": "container"
+                  }
+                ],
+                "tagName": "section"
+              }
+            ],
+            "privateStates": [
+              {
+                "expression": [
+                  {
+                    "fieldId": "fixed",
+                    "kind": "scalar",
+                    "label": "Fixed value",
+                    "options": {
+                      "value": "-1"
+                    },
+                    "propType": "field",
+                    "type": "property",
+                    "typeIds": [
+                      "String"
+                    ]
+                  }
+                ],
+                "id": "ib8wj-uqchm6m0pa",
+                "label": "tabindex"
+              },
+              {
+                "expression": [
+                  {
+                    "fieldId": "fixed",
+                    "kind": "scalar",
+                    "label": "Fixed value",
+                    "options": {
+                      "value": "main-content"
+                    },
+                    "propType": "field",
+                    "type": "property",
+                    "typeIds": [
+                      "String"
+                    ]
+                  }
+                ],
+                "id": "ib8wj-6suhmbx6oap",
+                "label": "id"
+              }
+            ],
+            "tagName": "main"
+          },
+          {
+            "attributes": {
+              "id": "irv70bq",
+              "src": "/assets/images.jpeg"
+            },
+            "type": "image"
+          },
+          {
+            "attributes": {
+              "id": "irv70bq-2",
+              "src": "/assets/opito-logo.png"
+            },
+            "type": "image"
+          },
+          {
+            "__symbol": "ismqe-2",
+            "attributes": {
+              "id": "ismqe"
+            },
+            "classes": [
+              "docs-footer"
+            ],
+            "components": [
+              {
+                "__symbol": "ijiu9-2",
+                "attributes": {
+                  "id": "ijiu9"
+                },
+                "classes": [
+                  "docs-footer__inner"
+                ],
+                "components": [
+                  {
+                    "__symbol": "i1ccg-2",
+                    "attributes": {
+                      "id": "i1ccg"
+                    },
+                    "classes": [
+                      "docs-footer__section"
+                    ],
+                    "components": [
+                      {
+                        "__symbol": "io7aj-2",
+                        "attributes": {
+                          "id": "io7aj"
+                        },
+                        "classes": [
+                          "docs-footer__title"
+                        ],
+                        "content": "Documentation",
+                        "tagName": "h4",
+                        "type": "text"
+                      },
+                      {
+                        "__symbol": "idktg-2",
+                        "attributes": {
+                          "id": "idktg"
+                        },
+                        "classes": [
+                          "docs-footer__list"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "i4ybf-2",
+                            "attributes": {
+                              "id": "i4ybf"
+                            },
+                            "components": [
+                              {
+                                "__symbol": "ia6xk-2",
+                                "attributes": {
+                                  "href": "./docs.html",
+                                  "id": "ia6xk"
+                                },
+                                "classes": [
+                                  "docs-footer__link"
+                                ],
+                                "content": "Getting Started",
+                                "tagName": "a",
+                                "type": "text"
+                              }
+                            ],
+                            "tagName": "li"
+                          },
+                          {
+                            "__symbol": "isosa-2",
+                            "attributes": {
+                              "id": "isosa"
+                            },
+                            "components": [
+                              {
+                                "__symbol": "izgng-2",
+                                "attributes": {
+                                  "href": "./guides.html",
+                                  "id": "izgng"
+                                },
+                                "classes": [
+                                  "docs-footer__link"
+                                ],
+                                "content": "Guides",
+                                "tagName": "a",
+                                "type": "text"
+                              }
+                            ],
+                            "tagName": "li"
+                          },
+                          {
+                            "__symbol": "igk4r-2",
+                            "attributes": {
+                              "id": "igk4r"
+                            },
+                            "components": [
+                              {
+                                "__symbol": "iq6gj-2",
+                                "attributes": {
+                                  "href": "./guides.html#api",
+                                  "id": "iq6gj"
+                                },
+                                "classes": [
+                                  "docs-footer__link"
+                                ],
+                                "content": "API Reference",
+                                "tagName": "a",
+                                "type": "text"
+                              }
+                            ],
+                            "tagName": "li"
+                          },
+                          {
+                            "__symbol": "ibztdk-2",
+                            "attributes": {
+                              "id": "ibztdk"
+                            },
+                            "components": [
+                              {
+                                "__symbol": "itzi6z-2",
+                                "attributes": {
+                                  "href": "#examples",
+                                  "id": "itzi6z"
+                                },
+                                "classes": [
+                                  "docs-footer__link"
+                                ],
+                                "content": "Examples",
+                                "tagName": "a",
+                                "type": "text"
+                              }
+                            ],
+                            "tagName": "li"
+                          }
+                        ],
+                        "tagName": "ul"
+                      }
+                    ]
+                  },
+                  {
+                    "__symbol": "iklkc5-2",
+                    "attributes": {
+                      "id": "iklkc5"
+                    },
+                    "classes": [
+                      "docs-footer__section"
+                    ],
+                    "components": [
+                      {
+                        "__symbol": "idsa75-2",
+                        "attributes": {
+                          "id": "idsa75"
+                        },
+                        "classes": [
+                          "docs-footer__title"
+                        ],
+                        "content": "Community",
+                        "tagName": "h4",
+                        "type": "text"
+                      },
+                      {
+                        "__symbol": "iuvsyk-2",
+                        "attributes": {
+                          "id": "iuvsyk"
+                        },
+                        "classes": [
+                          "docs-footer__list"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "iaru49-2",
+                            "attributes": {
+                              "id": "iaru49"
+                            },
+                            "components": [
+                              {
+                                "__symbol": "il5idp-2",
+                                "attributes": {
+                                  "href": "https://github.com",
+                                  "id": "il5idp",
+                                  "target": "_blank"
+                                },
+                                "classes": [
+                                  "docs-footer__link"
+                                ],
+                                "content": "GitHub",
+                                "tagName": "a",
+                                "type": "text"
+                              }
+                            ],
+                            "tagName": "li"
+                          },
+                          {
+                            "__symbol": "i9ec2l-2",
+                            "attributes": {
+                              "id": "i9ec2l"
+                            },
+                            "components": [
+                              {
+                                "__symbol": "i673f3-2",
+                                "attributes": {
+                                  "href": "https://discord.com",
+                                  "id": "i673f3",
+                                  "target": "_blank"
+                                },
+                                "classes": [
+                                  "docs-footer__link"
+                                ],
+                                "content": "Discord",
+                                "tagName": "a",
+                                "type": "text"
+                              }
+                            ],
+                            "tagName": "li"
+                          },
+                          {
+                            "__symbol": "i1kijx-2",
+                            "attributes": {
+                              "id": "i1kijx"
+                            },
+                            "components": [
+                              {
+                                "__symbol": "idqn2h-2",
+                                "attributes": {
+                                  "href": "https://twitter.com",
+                                  "id": "idqn2h",
+                                  "target": "_blank"
+                                },
+                                "classes": [
+                                  "docs-footer__link"
+                                ],
+                                "content": "Twitter",
+                                "tagName": "a",
+                                "type": "text"
+                              }
+                            ],
+                            "tagName": "li"
+                          },
+                          {
+                            "__symbol": "i9zn51-2",
+                            "attributes": {
+                              "id": "i9zn51"
+                            },
+                            "components": [
+                              {
+                                "__symbol": "ifb1zi-2",
+                                "attributes": {
+                                  "href": "#blog",
+                                  "id": "ifb1zi"
+                                },
+                                "classes": [
+                                  "docs-footer__link"
+                                ],
+                                "content": "Blog",
+                                "tagName": "a",
+                                "type": "text"
+                              }
+                            ],
+                            "tagName": "li"
+                          }
+                        ],
+                        "tagName": "ul"
+                      }
+                    ]
+                  },
+                  {
+                    "__symbol": "i9pav4-2",
+                    "attributes": {
+                      "id": "i9pav4"
+                    },
+                    "classes": [
+                      "docs-footer__section"
+                    ],
+                    "components": [
+                      {
+                        "__symbol": "ixof4c-2",
+                        "attributes": {
+                          "id": "ixof4c"
+                        },
+                        "classes": [
+                          "docs-footer__title"
+                        ],
+                        "content": "Resources",
+                        "tagName": "h4",
+                        "type": "text"
+                      },
+                      {
+                        "__symbol": "i38f6d-2",
+                        "attributes": {
+                          "id": "i38f6d"
+                        },
+                        "classes": [
+                          "docs-footer__list"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "iw2t8j-2",
+                            "attributes": {
+                              "id": "iw2t8j"
+                            },
+                            "components": [
+                              {
+                                "__symbol": "ik32bh-2",
+                                "attributes": {
+                                  "href": "#changelog",
+                                  "id": "ik32bh"
+                                },
+                                "classes": [
+                                  "docs-footer__link"
+                                ],
+                                "content": "Changelog",
+                                "tagName": "a",
+                                "type": "text"
+                              }
+                            ],
+                            "tagName": "li"
+                          },
+                          {
+                            "__symbol": "ihujyi-2",
+                            "attributes": {
+                              "id": "ihujyi"
+                            },
+                            "components": [
+                              {
+                                "__symbol": "iug8g2-2",
+                                "attributes": {
+                                  "href": "#roadmap",
+                                  "id": "iug8g2"
+                                },
+                                "classes": [
+                                  "docs-footer__link"
+                                ],
+                                "content": "Roadmap",
+                                "tagName": "a",
+                                "type": "text"
+                              }
+                            ],
+                            "tagName": "li"
+                          },
+                          {
+                            "__symbol": "ikxf1i-2",
+                            "attributes": {
+                              "id": "ikxf1i"
+                            },
+                            "components": [
+                              {
+                                "__symbol": "i64or9-2",
+                                "attributes": {
+                                  "href": "#contributing",
+                                  "id": "i64or9"
+                                },
+                                "classes": [
+                                  "docs-footer__link"
+                                ],
+                                "content": "Contributing",
+                                "tagName": "a",
+                                "type": "text"
+                              }
+                            ],
+                            "tagName": "li"
+                          },
+                          {
+                            "__symbol": "iu53wz-2",
+                            "attributes": {
+                              "id": "iu53wz"
+                            },
+                            "components": [
+                              {
+                                "__symbol": "ioechv-2",
+                                "attributes": {
+                                  "href": "#license",
+                                  "id": "ioechv"
+                                },
+                                "classes": [
+                                  "docs-footer__link"
+                                ],
+                                "content": "License (MIT)",
+                                "tagName": "a",
+                                "type": "text"
+                              }
+                            ],
+                            "tagName": "li"
+                          }
+                        ],
+                        "tagName": "ul"
+                      }
+                    ]
+                  },
+                  {
+                    "__symbol": "iwi47m-2",
+                    "attributes": {
+                      "id": "iwi47m"
+                    },
+                    "classes": [
+                      "docs-footer__section"
+                    ],
+                    "components": [
+                      {
+                        "__symbol": "ikq5qk-2",
+                        "attributes": {
+                          "id": "ikq5qk"
+                        },
+                        "classes": [
+                          "docs-footer__title"
+                        ],
+                        "content": "Contact",
+                        "tagName": "h4",
+                        "type": "text"
+                      },
+                      {
+                        "__symbol": "i27pay-2",
+                        "attributes": {
+                          "id": "i27pay"
+                        },
+                        "classes": [
+                          "docs-footer__list"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "ilvtg8-2",
+                            "attributes": {
+                              "id": "ilvtg8"
+                            },
+                            "components": [
+                              {
+                                "__symbol": "iomx0y-2",
+                                "attributes": {
+                                  "href": "mailto:support@example.com",
+                                  "id": "iomx0y"
+                                },
+                                "classes": [
+                                  "docs-footer__link"
+                                ],
+                                "content": "support@example.com",
+                                "tagName": "a",
+                                "type": "text"
+                              }
+                            ],
+                            "tagName": "li"
+                          },
+                          {
+                            "__symbol": "ioqnm8-2",
+                            "attributes": {
+                              "id": "ioqnm8"
+                            },
+                            "components": [
+                              {
+                                "__symbol": "ii5jwf-2",
+                                "attributes": {
+                                  "href": "#support",
+                                  "id": "ii5jwf"
+                                },
+                                "classes": [
+                                  "docs-footer__link"
+                                ],
+                                "content": "Support Center",
+                                "tagName": "a",
+                                "type": "text"
+                              }
+                            ],
+                            "tagName": "li"
+                          },
+                          {
+                            "__symbol": "it3pg5-2",
+                            "attributes": {
+                              "id": "it3pg5"
+                            },
+                            "components": [
+                              {
+                                "__symbol": "igoynh-2",
+                                "attributes": {
+                                  "href": "#status",
+                                  "id": "igoynh"
+                                },
+                                "classes": [
+                                  "docs-footer__link"
+                                ],
+                                "content": "System Status",
+                                "tagName": "a",
+                                "type": "text"
+                              }
+                            ],
+                            "tagName": "li"
+                          }
+                        ],
+                        "tagName": "ul"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "__symbol": "i58k9g-2",
+                "attributes": {
+                  "id": "i58k9g"
+                },
+                "classes": [
+                  "docs-footer__bottom",
+                  "docs-container"
+                ],
+                "components": [
+                  {
+                    "__symbol": "iha89s-2",
+                    "attributes": {
+                      "id": "iha89s000"
+                    },
+                    "classes": [
+                      "docs-footer__bottom-p"
+                    ],
+                    "components": [
+                      {
+                        "__symbol": "ite3e1-2",
+                        "attributes": {
+                          "id": "ite3e1"
+                        },
+                        "content": "© 2026 DevDocs. Built with ",
+                        "type": "textnode"
+                      },
+                      {
+                        "__symbol": "ij9a3s-2",
+                        "attributes": {
+                          "href": "https://www.silex.me/",
+                          "id": "ij9a3s-3"
+                        },
+                        "components": [
+                          {
+                            "__symbol": "idxmp5-2",
+                            "attributes": {
+                              "id": "idxmp5"
+                            },
+                            "content": "Silex",
+                            "type": "textnode"
+                          }
+                        ],
+                        "originalTagName": "span",
+                        "tagName": "a",
+                        "type": "text"
+                      }
+                    ],
+                    "selector": {
+                      "mainSelector": {
+                        "pseudoClass": null,
+                        "selectors": [
+                          {
+                            "active": true,
+                            "type": "id",
+                            "value": "iha89s000"
+                          },
+                          {
+                            "active": true,
+                            "type": "class",
+                            "value": "docs-footer__bottom-p"
+                          }
+                        ]
+                      }
+                    },
+                    "tagName": "p",
+                    "type": "text"
+                  },
+                  {
+                    "__symbol": "iha89s-2-3-2-7-2",
+                    "attributes": {
+                      "id": "iha89s-2-3-2-7-3"
+                    },
+                    "classes": [
+                      "docs-footer__bottom-p"
+                    ],
+                    "components": [
+                      {
+                        "__symbol": "i2m4h6-7-2",
+                        "attributes": {
+                          "id": "i2m4h6-7-3"
+                        },
+                        "content": "Licensed under",
+                        "type": "textnode"
+                      }
+                    ],
+                    "selector": {
+                      "mainSelector": {
+                        "pseudoClass": null,
+                        "selectors": [
+                          {
+                            "active": true,
+                            "type": "id",
+                            "value": "iha89s000"
+                          },
+                          {
+                            "active": true,
+                            "type": "class",
+                            "value": "docs-footer__bottom-p"
+                          }
+                        ]
+                      }
+                    },
+                    "tagName": "p",
+                    "type": "text"
+                  },
+                  {
+                    "__symbol": "izfjej-4-2-2",
+                    "attributes": {
+                      "href": "https://creativecommons.org/licenses/by/4.0/",
+                      "id": "izfjej-4-2-3",
+                      "rel": "noopener",
+                      "target": "_blank"
+                    },
+                    "components": [
+                      {
+                        "__symbol": "iiwe1r-4-2-2",
+                        "attributes": {
+                          "id": "iiwe1r-4-2-3"
+                        },
+                        "content": "CC BY 4.0",
+                        "type": "textnode"
+                      }
+                    ],
+                    "type": "link"
+                  },
+                  {
+                    "__symbol": "i1k7yk-3-2-7-7-2",
+                    "attributes": {
+                      "id": "i1k7yk-3-2-7-7",
+                      "viewBox": "0 0 496 512",
+                      "xmlns": "http://www.w3.org/2000/svg"
+                    },
+                    "classes": [
+                      "cc-icon"
+                    ],
+                    "components": [
+                      {
+                        "__symbol": "ii0h6q-3-2-7-7-2",
+                        "attributes": {
+                          "d": "M314.9 194.4v101.4h-28.3v120.5h-56.1V295.9h-28.4V194.4c0-21.6 12.7-39.6 30.6-47.2 4-12.4 15.4-21.2 28.9-21.2 13.4 0 24.7 8.8 28.8 21.2 17.8 7.6 30.5 25.5 30.5 47.2zm-63.5-73.4c14.4 0 26-11.6 26-26s-11.6-26-26-26-26 11.6-26 26 11.6 26 26 26zM247.4 8C110.8 8 0 118.8 0 256s110.8 248 247.4 248c136.6 0 247.4-110.8 247.4-248S384 8 247.4 8zm.8 451.9c-112.5 0-203.7-91.2-203.7-203.7S135.7 52.4 248.2 52.4s203.8 91.2 203.8 203.7-91.3 203.8-203.8 203.8z",
+                          "fill": "currentColor",
+                          "id": "ii0h6q-3-2-7-7"
+                        },
+                        "resizable": {
+                          "ratioDefault": true
+                        },
+                        "tagName": "path",
+                        "type": "svg-in"
+                      }
+                    ],
+                    "resizable": {
+                      "ratioDefault": true
+                    },
+                    "type": "svg"
+                  },
+                  {
+                    "__symbol": "inlr83-3-2-7-7-2",
+                    "attributes": {
+                      "id": "inlr83-3-2-7-7",
+                      "viewBox": "0 0 496 512",
+                      "xmlns": "http://www.w3.org/2000/svg"
+                    },
+                    "classes": [
+                      "cc-icon"
+                    ],
+                    "components": [
+                      {
+                        "__symbol": "ipuqgu-3-2-7-7-2",
+                        "attributes": {
+                          "d": "M245.83 214.87l-33.22 17.28c-9.43-19.58-25.24-19.93-27.46-19.93-22.13 0-33.22 14.61-33.22 43.89 0 28.67 11.09 43.35 33.22 43.35 22.13 0 35.51-14.61 35.51-34.93h31.9c0 30.23-25.5 58.01-64.86 58.01-44.5 0-66.21-25.13-66.21-66.43 0-41.02 21.71-66.97 66.21-66.97 31.62 0 60.16 19.33 60.16 45.73zm114.2 0l-33.22 17.28c-9.43-19.58-25.24-19.93-27.46-19.93-22.13 0-33.22 14.61-33.22 43.89 0 28.67 11.09 43.35 33.22 43.35 22.13 0 35.51-14.61 35.51-34.93h31.9c0 30.23-25.5 58.01-64.86 58.01-44.5 0-66.21-25.13-66.21-66.43 0-41.02 21.71-66.97 66.21-66.97 31.62 0 60.16 19.33 60.16 45.73zM247.42 8C110.77 8 0 118.78 0 256s110.77 248 247.42 248C384.06 504 494.83 393.22 494.83 256 494.83 118.78 384.06 8 247.42 8zm.84 451.91c-112.53 0-203.74-91.21-203.74-203.74S135.73 52.43 248.26 52.43s203.74 91.21 203.74 203.74-91.21 203.74-203.74 203.74z",
+                          "fill": "currentColor",
+                          "id": "ipuqgu-3-2-7-7"
+                        },
+                        "resizable": {
+                          "ratioDefault": true
+                        },
+                        "tagName": "path",
+                        "type": "svg-in"
+                      }
+                    ],
+                    "resizable": {
+                      "ratioDefault": true
+                    },
+                    "type": "svg"
+                  }
+                ],
+                "selector": {
+                  "mainSelector": {
+                    "pseudoClass": null,
+                    "selectors": [
+                      {
+                        "active": true,
+                        "type": "id",
+                        "value": "i58k9g"
+                      },
+                      {
+                        "active": true,
+                        "type": "class",
+                        "value": "docs-footer__bottom"
+                      },
+                      {
+                        "active": false,
+                        "type": "class",
+                        "value": "docs-container"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "custom-name": "Footer",
+            "tagName": "footer"
+          }
+        ],
+        "docEl": {
+          "attributes": {
+            "id": "ip6f"
+          },
+          "tagName": "html"
+        },
+        "head": {
+          "attributes": {
+            "id": "igru"
+          },
+          "type": "head"
+        },
+        "publicStates": [],
+        "selector": {
+          "mainSelector": {
+            "pseudoClass": null,
+            "selectors": [
+              {
+                "active": false,
+                "type": "id",
+                "value": "ivl1"
+              },
+              {
+                "active": true,
+                "type": "tag",
+                "value": "body"
+              }
+            ]
+          },
+          "operator": {
+            "displayName": "inside of",
+            "hasParam": false,
+            "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_combinator",
+            "isCombinator": true,
+            "sentencePre": "When it is",
+            "stringRepresentation": " ",
+            "type": " "
+          },
+          "relatedSelector": {
+            "selectors": []
+          }
+        },
+        "stylable": [
+          "background",
+          "background-color",
+          "background-image",
+          "background-repeat",
+          "background-attachment",
+          "background-position",
+          "background-size"
+        ],
+        "type": "wrapper"
+      },
+      "id": "VIBazAnnLOqpB82Q"
+    }
+  ],
+  "id": "V3sdClejQst2D9Yx",
+  "name": "index",
+  "settings": {}
+}
