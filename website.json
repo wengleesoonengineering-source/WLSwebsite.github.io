@@ -1,0 +1,4264 @@
+{
+  "assets": [
+    {
+      "height": 0,
+      "src": "/assets/opito-logo.png",
+      "type": "image",
+      "unitDim": "px",
+      "width": 0
+    },
+    {
+      "height": 0,
+      "src": "/assets/Screenshot 2026-09-29 112215.png",
+      "type": "image",
+      "unitDim": "px",
+      "width": 0
+    },
+    {
+      "height": 0,
+      "src": "/assets/images.jpeg",
+      "type": "image",
+      "unitDim": "px",
+      "width": 0
+    },
+    {
+      "height": 0,
+      "src": "/assets/6185852512817058333.jpg",
+      "type": "image",
+      "unitDim": "px",
+      "width": 0
+    },
+    {
+      "height": 0,
+      "src": "/assets/6185852512817058331.jpg",
+      "type": "image",
+      "unitDim": "px",
+      "width": 0
+    },
+    {
+      "height": 0,
+      "src": "/assets/6185852512817058332.jpg",
+      "type": "image",
+      "unitDim": "px",
+      "width": 0
+    },
+    {
+      "height": 0,
+      "src": "/assets/6185852512817058335.jpg",
+      "type": "image",
+      "unitDim": "px",
+      "width": 0
+    },
+    {
+      "height": 0,
+      "src": "/assets/6185852512817058334.jpg",
+      "type": "image",
+      "unitDim": "px",
+      "width": 0
+    },
+    {
+      "height": 0,
+      "src": "/assets/da61c391-e4cf-445d-af83-f6a7d7238376.jpeg",
+      "type": "image",
+      "unitDim": "px",
+      "width": 0
+    },
+    {
+      "height": 0,
+      "src": "/assets/618585251281705810655555555.jpg",
+      "type": "image",
+      "unitDim": "px",
+      "width": 0
+    },
+    {
+      "height": 0,
+      "src": "/assets/6185852512817058121.jpg",
+      "type": "image",
+      "unitDim": "px",
+      "width": 0
+    },
+    {
+      "height": 0,
+      "src": "/assets/618585251281705812211.jpg",
+      "type": "image",
+      "unitDim": "px",
+      "width": 0
+    },
+    {
+      "height": 0,
+      "src": "/assets/6185852512817058154.jpg",
+      "type": "image",
+      "unitDim": "px",
+      "width": 0
+    },
+    {
+      "height": 0,
+      "src": "/assets/Gemini_Generated_Image_rrgc6arrgc6arrgc__1_-removebg-preview.png",
+      "type": "image",
+      "unitDim": "px",
+      "width": 0
+    }
+  ],
+  "cssVarOrder": [],
+  "dataSources": [],
+  "fonts": [],
+  "pages": [
+    {
+      "id": "V3sdClejQst2D9Yx",
+      "isFile": true,
+      "name": "index"
+    },
+    {
+      "id": "wEnFaOVS81xw2eWDKfC",
+      "isFile": true,
+      "name": "docs"
+    },
+    {
+      "id": "oKWH21erXzJ64bmK6rh",
+      "isFile": true,
+      "name": "core concepts"
+    },
+    {
+      "id": "FPNAhG5ydE9rtggZrSAb",
+      "isFile": true,
+      "name": "advanced"
+    },
+    {
+      "id": "guides",
+      "isFile": true,
+      "name": "guides"
+    }
+  ],
+  "pagesFolder": "pages",
+  "publication": {
+    "connector": {
+      "background": "rgba(252, 109, 38, 0.2)",
+      "color": "#2B1B63",
+      "connectorId": "gitlab",
+      "disableLogout": false,
+      "displayName": "GitLab.com",
+      "icon": "/assets/gitlab.png",
+      "isLoggedIn": true,
+      "oauthUrl": "https://gitlab.com/oauth/authorize?client_id=55cb55ab5fd12ab93883378513212d0c85833ef1f4084375f973618e938af107&redirect_uri=https%3A%2F%2Fv3.silex.me%2Fapi%2Fconnector%2Flogin%2Fcallback%3FconnectorId%3Dgitlab%26type%3DHOSTING&response_type=code&state=x18f8x3wetdrppft264ki9&scope=api&code_challenge=rlJ8UoTDh2t4bpCGSzgn2p2XNk57pEpGrng-s9t_tww&code_challenge_method=S256",
+      "type": "HOSTING"
+    }
+  },
+  "settings": {
+    "head": "<!-- Include Pagefind script -->\n<link rel=\"preload\" href=\"pagefind/pagefind-ui.css\" as=\"style\" onload=\"this.rel='stylesheet'\">\n<noscript>\n  <link rel=\"stylesheet\" href=\"pagefind/pagefind-ui.css\">\n</noscript>\n<script src=\"/pagefind/pagefind-ui.js\"></script>\n<script>\n  window.addEventListener('load', (event) => {\n    // Initialisation de Pagefind\n    new PagefindUI({\n      element: \"#search\",\n      showImages: false,\n      showSubResults: true\n    });\n  });\n</script>\n\n\n\n<style>\n  .pagefind-ui__drawer {\n    background-color: white;\n\n    max-height: 70vh;\n    overflow-y: auto;\n    overflow-x: inherit;\n    padding: 0px 20px 20px 20px;\n    margin: 0px 5px;\n    box-shadow: 0 3px 5px 3px rgba(90, 90, 90, .11);\n    border-radius: 5px;\n  }\n</style>\n"
+  },
+  "styles": [
+    {
+      "selectors": [],
+      "selectorsAdd": "*, *::before, *::after",
+      "style": {
+        "box-sizing": "border-box"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "body",
+      "style": {
+        "background-color": "#fafbfc",
+        "color": "#1a1a2e",
+        "font-family": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+        "font-size": "16px",
+        "line-height": "1.6",
+        "margin": "0",
+        "padding": "0"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "h1, h2, h3, h4, h5, h6",
+      "style": {
+        "color": "#0f0f23",
+        "font-weight": "600",
+        "line-height": "1.3",
+        "margin": "0 0 0.5em 0"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "h1",
+      "style": {
+        "color": "#0066ff",
+        "font-size": "1rem",
+        "text-transform": "uppercase"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "h2",
+      "style": {
+        "font-size": "2rem",
+        "line-height": "1.3em",
+        "padding": "1.5em 0px 0em 0px"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "h3",
+      "style": {
+        "font-size": "1.5rem"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "h4",
+      "style": {
+        "font-size": "1.25rem"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "h5",
+      "style": {
+        "font-size": "1.1rem"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "h6",
+      "style": {
+        "font-size": "1rem"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "p",
+      "style": {
+        "color": "#374151",
+        "margin": "0 0 1em 0"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "a",
+      "style": {
+        "color": "#2563eb",
+        "text-decoration": "none",
+        "transition": "color 0.2s ease"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "a:hover",
+      "style": {
+        "color": "#1d4ed8",
+        "text-decoration": "underline"
+      }
+    },
+    {
+      "selectors": [
+        "docs-container"
+      ],
+      "style": {
+        "margin": "0 auto",
+        "max-width": "1280px",
+        "padding": "0 24px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-container--narrow"
+      ],
+      "style": {
+        "max-width": "800px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-container--wide"
+      ],
+      "style": {
+        "max-width": "1440px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-flex"
+      ],
+      "style": {
+        "display": "flex"
+      }
+    },
+    {
+      "selectors": [
+        "docs-flex--row"
+      ],
+      "style": {
+        "flex-direction": "row"
+      }
+    },
+    {
+      "selectors": [
+        "docs-flex--col"
+      ],
+      "style": {
+        "flex-direction": "column"
+      }
+    },
+    {
+      "selectors": [
+        "docs-flex--wrap"
+      ],
+      "style": {
+        "flex-wrap": "wrap"
+      }
+    },
+    {
+      "selectors": [
+        "docs-flex--center"
+      ],
+      "style": {
+        "align-items": "center",
+        "justify-content": "center"
+      }
+    },
+    {
+      "selectors": [
+        "docs-flex--between"
+      ],
+      "style": {
+        "justify-content": "space-between"
+      }
+    },
+    {
+      "selectors": [
+        "docs-flex--gap-sm"
+      ],
+      "style": {
+        "gap": "8px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-flex--gap-md"
+      ],
+      "style": {
+        "gap": "16px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-flex--gap-lg"
+      ],
+      "style": {
+        "gap": "24px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-flex--gap-xl"
+      ],
+      "style": {
+        "gap": "32px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-header"
+      ],
+      "style": {
+        "background-color": "#ffffff",
+        "border-bottom": "1px solid #e5e7eb",
+        "height": "64px",
+        "left": "0",
+        "padding": "0 24px",
+        "position": "fixed",
+        "right": "0",
+        "top": "0",
+        "z-index": "100"
+      }
+    },
+    {
+      "selectors": [
+        "docs-header__inner"
+      ],
+      "style": {
+        "display": "flex",
+        "height": "100%",
+        "justify-content": "space-between",
+        "margin": "0 auto",
+        "max-width": "1440px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-header__logo"
+      ],
+      "style": {
+        "align-items": "center",
+        "color": "#0f0f23",
+        "display": "flex",
+        "font-size": "1.25rem",
+        "font-weight": "700",
+        "gap": "12px",
+        "text-decoration": "none"
+      }
+    },
+    {
+      "selectors": [
+        "docs-header__logo"
+      ],
+      "state": "hover",
+      "style": {
+        "text-decoration": "none"
+      }
+    },
+    {
+      "selectors": [
+        "docs-header__nav"
+      ],
+      "style": {
+        "gap": "32px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-header__link"
+      ],
+      "style": {
+        "border-bottom": "2px solid transparent",
+        "color": "#4b5563",
+        "font-size": "0.95rem",
+        "font-weight": "500",
+        "padding": "8px 0",
+        "transition": "all 0.2s ease"
+      }
+    },
+    {
+      "selectors": [
+        "docs-header__link"
+      ],
+      "state": "hover",
+      "style": {
+        "border-bottom-color": "#2563eb",
+        "color": "#2563eb",
+        "text-decoration": "none"
+      }
+    },
+    {
+      "selectors": [
+        "docs-header__link--active"
+      ],
+      "style": {
+        "border-bottom-color": "#2563eb",
+        "color": "#2563eb",
+        "text-decoration": "none"
+      }
+    },
+    {
+      "selectors": [
+        "docs-header__search"
+      ],
+      "style": {
+        "gap": "8px",
+        "padding": "8px 16px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-header__search"
+      ],
+      "state": "focus-within",
+      "style": {
+        "border": "0px solid"
+      }
+    },
+    {
+      "selectors": [
+        "docs-header__search-icon"
+      ],
+      "style": {
+        "color": "#9ca3af",
+        "font-size": "0.9rem"
+      }
+    },
+    {
+      "selectors": [
+        "docs-header__search-input"
+      ],
+      "style": {
+        "background": "transparent",
+        "border": "none",
+        "color": "#374151",
+        "font-size": "0.9rem",
+        "outline": "none",
+        "width": "100%"
+      }
+    },
+    {
+      "selectors": [
+        "docs-header__search-input"
+      ],
+      "state": ":placeholder",
+      "style": {
+        "color": "#9ca3af"
+      }
+    },
+    {
+      "selectors": [
+        "docs-main"
+      ],
+      "style": {
+        "min-height": "100vh",
+        "padding-top": "64px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-sidebar"
+      ],
+      "style": {
+        "background-color": "#ffffff",
+        "border-right": "1px solid #e5e7eb",
+        "color": "#4b5563",
+        "display": "block",
+        "flex-shrink": "0",
+        "overflow-y": "auto",
+        "padding": "32px 24px",
+        "position": "sticky",
+        "top": "64px",
+        "width": "280px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-sidebar__section"
+      ],
+      "style": {
+        "margin-bottom": "24px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-sidebar__title"
+      ],
+      "style": {
+        "color": "#6b7280",
+        "font-size": "0.75rem",
+        "font-weight": "600",
+        "letter-spacing": "0.05em",
+        "margin": "0px 0px 20px 0px",
+        "padding": "0 12px",
+        "text-transform": "uppercase"
+      }
+    },
+    {
+      "selectors": [
+        "docs-sidebar__list"
+      ],
+      "style": {
+        "list-style": "none",
+        "margin": "5px 0px 0px 0px",
+        "padding": "0"
+      }
+    },
+    {
+      "selectors": [
+        "docs-sidebar__link"
+      ],
+      "style": {
+        "border-radius": "6px",
+        "color": "#4b5563",
+        "display": "block",
+        "font-size": "0.9rem",
+        "padding": "8px 12px",
+        "transition": "all 0.15s ease"
+      }
+    },
+    {
+      "selectors": [
+        "docs-sidebar__link"
+      ],
+      "state": "hover",
+      "style": {
+        "background-color": "#f3f4f6",
+        "color": "#1f2937",
+        "text-decoration": "none"
+      }
+    },
+    {
+      "selectors": [
+        "docs-sidebar__link--active"
+      ],
+      "style": {
+        "background-color": "#eff6ff",
+        "color": "#2563eb",
+        "font-weight": "500"
+      }
+    },
+    {
+      "selectors": [
+        "docs-content"
+      ],
+      "style": {
+        "flex": "1",
+        "max-width": "900px",
+        "min-width": "0",
+        "padding": "48px 64px"
+      }
+    },
+    {
+      "selectors": [
+        {
+          "label": "docs-content__header",
+          "name": "docs-content__header-hr"
+        }
+      ],
+      "style": {
+        "border-bottom": "1px solid #e5e7eb",
+        "padding": "20px 0px 0px 0px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-content__title"
+      ],
+      "style": {
+        "font-size": "2.25rem",
+        "margin-bottom": "8px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-content__description"
+      ],
+      "style": {
+        "color": "#6b7280",
+        "font-size": "1.125rem"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "code",
+      "style": {
+        "background-color": "#f1f5f9",
+        "border-radius": "4px",
+        "color": "#be185d",
+        "font-family": "'SF Mono', 'Fira Code', 'Consolas', monospace",
+        "font-size": "0.875em",
+        "padding": "2px 6px"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "pre",
+      "style": {
+        "background-color": "#1e293b",
+        "border-radius": "8px",
+        "color": "#e2e8f0",
+        "line-height": "1.5",
+        "margin": "1.5em 0",
+        "overflow-x": "auto",
+        "padding": "20px 24px"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "pre code",
+      "style": {
+        "background": "transparent",
+        "color": "inherit",
+        "font-size": "0.9rem",
+        "padding": "0"
+      }
+    },
+    {
+      "selectors": [
+        "docs-callout"
+      ],
+      "style": {
+        "border-left": "4px solid",
+        "border-radius": "8px",
+        "margin": "1.5em 0",
+        "padding": "16px 20px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-callout--info"
+      ],
+      "style": {
+        "background-color": "#eff6ff",
+        "border-left-color": "#3b82f6"
+      }
+    },
+    {
+      "selectors": [
+        "docs-callout--warning"
+      ],
+      "style": {
+        "background-color": "#fffbeb",
+        "border-left-color": "#f59e0b"
+      }
+    },
+    {
+      "selectors": [
+        "docs-callout--danger"
+      ],
+      "style": {
+        "background-color": "#fef2f2",
+        "border-left-color": "#ef4444"
+      }
+    },
+    {
+      "selectors": [
+        "docs-callout--success"
+      ],
+      "style": {
+        "background-color": "#f0fdf4",
+        "border-left-color": "#22c55e"
+      }
+    },
+    {
+      "selectors": [
+        "docs-callout__title"
+      ],
+      "style": {
+        "font-size": "0.95rem",
+        "font-weight": "600",
+        "margin-bottom": "4px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-callout__content"
+      ],
+      "style": {
+        "color": "#374151",
+        "font-size": "0.9rem"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "details",
+      "style": {
+        "border": "1px solid #e5e7eb",
+        "border-radius": "8px",
+        "margin": "1em 0",
+        "overflow": "hidden"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "summary",
+      "style": {
+        "align-items": "center",
+        "background-color": "#f9fafb",
+        "color": "#1f2937",
+        "cursor": "pointer",
+        "display": "flex",
+        "font-weight": "500",
+        "justify-content": "space-between",
+        "list-style": "none",
+        "padding": "16px 20px",
+        "transition": "background 0.2s ease"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "summary::-webkit-details-marker",
+      "style": {
+        "display": "none"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "summary::after",
+      "style": {
+        "color": "#6b7280",
+        "content": "'+'",
+        "font-size": "1.25rem",
+        "transition": "transform 0.2s ease"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "details[open] summary::after",
+      "style": {
+        "content": "'−'"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "summary:hover",
+      "style": {
+        "background-color": "#f3f4f6"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "details > div, details > p",
+      "style": {
+        "border-top": "1px solid #e5e7eb",
+        "padding": "16px 20px"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "table",
+      "style": {
+        "border-collapse": "collapse",
+        "font-size": "0.9rem",
+        "margin": "1.5em 0",
+        "width": "100%"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "th, td",
+      "style": {
+        "border-bottom": "1px solid #e5e7eb",
+        "padding": "12px 16px",
+        "text-align": "left"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "th",
+      "style": {
+        "background-color": "#f9fafb",
+        "color": "#374151",
+        "font-weight": "600"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "tr:hover td",
+      "style": {
+        "background-color": "#f9fafb"
+      }
+    },
+    {
+      "selectors": [
+        "docs-btn"
+      ],
+      "style": {
+        "align-items": "center",
+        "border": "none",
+        "border-radius": "8px",
+        "cursor": "pointer",
+        "display": "inline-flex",
+        "font-size": "0.95rem",
+        "font-weight": "500",
+        "gap": "8px",
+        "padding": "10px 20px",
+        "text-decoration": "none",
+        "transition": "all 0.2s ease"
+      }
+    },
+    {
+      "selectors": [
+        "docs-btn--primary"
+      ],
+      "style": {
+        "background-color": "#2563eb",
+        "color": "#ffffff"
+      }
+    },
+    {
+      "selectors": [
+        "docs-btn--primary"
+      ],
+      "state": "hover",
+      "style": {
+        "background-color": "#1d4ed8",
+        "color": "#ffffff",
+        "text-decoration": "none"
+      }
+    },
+    {
+      "selectors": [
+        "docs-btn--secondary"
+      ],
+      "style": {
+        "background-color": "#f3f4f6",
+        "border": "1px solid #e5e7eb",
+        "color": "#374151"
+      }
+    },
+    {
+      "selectors": [
+        "docs-btn--secondary"
+      ],
+      "state": "hover",
+      "style": {
+        "background-color": "#e5e7eb",
+        "text-decoration": "none"
+      }
+    },
+    {
+      "selectors": [
+        "docs-btn--outline"
+      ],
+      "style": {
+        "background": "transparent",
+        "border": "1px solid #2563eb",
+        "color": "#2563eb"
+      }
+    },
+    {
+      "selectors": [
+        "docs-btn--outline"
+      ],
+      "state": "hover",
+      "style": {
+        "background-color": "#eff6ff",
+        "text-decoration": "none"
+      }
+    },
+    {
+      "selectors": [
+        "docs-card"
+      ],
+      "style": {
+        "background-color": "#ffffff",
+        "border": "1px solid #e5e7eb",
+        "border-radius": "12px",
+        "padding": "24px",
+        "transition": "all 0.2s ease"
+      }
+    },
+    {
+      "selectors": [
+        "docs-card"
+      ],
+      "state": "hover",
+      "style": {
+        "border-color": "#d1d5db",
+        "box-shadow": "0 4px 12px rgba(0, 0, 0, 0.05)"
+      }
+    },
+    {
+      "selectors": [
+        "docs-card__icon"
+      ],
+      "style": {
+        "font-size": "2rem",
+        "margin-bottom": "16px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-card__title"
+      ],
+      "style": {
+        "color": "#0f0f23",
+        "font-size": "1.125rem",
+        "font-weight": "600",
+        "margin-bottom": "8px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-card__description"
+      ],
+      "style": {
+        "color": "#6b7280",
+        "font-size": "0.9rem",
+        "margin": "0"
+      }
+    },
+    {
+      "selectors": [
+        "docs-hero"
+      ],
+      "style": {
+        "background": "linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%)",
+        "padding": "80px 24px",
+        "text-align": "center"
+      }
+    },
+    {
+      "selectors": [
+        "docs-hero__title"
+      ],
+      "style": {
+        "color": "#0f0f23",
+        "font-size": "3rem",
+        "margin-bottom": "16px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-hero__subtitle"
+      ],
+      "style": {
+        "color": "#6b7280",
+        "font-size": "1.25rem",
+        "margin": "0 auto 32px",
+        "max-width": "600px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-hero__actions"
+      ],
+      "style": {
+        "display": "flex",
+        "flex-wrap": "wrap",
+        "gap": "16px",
+        "justify-content": "center"
+      }
+    },
+    {
+      "selectors": [
+        "docs-footer"
+      ],
+      "style": {
+        "background-color": "#0f0f23",
+        "color": "#9ca3af",
+        "margin": "50px 0px 0px 0px",
+        "padding": "64px 24px 32px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-footer__inner"
+      ],
+      "style": {
+        "display": "flex",
+        "flex-wrap": "wrap",
+        "gap": "48px",
+        "justify-content": "center",
+        "margin": "0 auto",
+        "max-width": "1280px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-footer__section"
+      ],
+      "style": {
+        "min-width": "160px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-footer__title"
+      ],
+      "style": {
+        "color": "#ffffff",
+        "font-size": "0.85rem",
+        "font-weight": "600",
+        "letter-spacing": "0.05em",
+        "margin-bottom": "16px",
+        "text-transform": "uppercase"
+      }
+    },
+    {
+      "selectors": [
+        "docs-footer__list"
+      ],
+      "style": {
+        "list-style": "none",
+        "margin": "0",
+        "padding": "0"
+      }
+    },
+    {
+      "selectors": [
+        "docs-footer__link"
+      ],
+      "style": {
+        "color": "#9ca3af",
+        "display": "block",
+        "font-size": "0.9rem",
+        "padding": "6px 0",
+        "transition": "color 0.2s ease"
+      }
+    },
+    {
+      "selectors": [
+        "docs-footer__link"
+      ],
+      "state": "hover",
+      "style": {
+        "color": "#ffffff",
+        "text-decoration": "none"
+      }
+    },
+    {
+      "selectors": [
+        "docs-footer__bottom"
+      ],
+      "style": {
+        "align-items": "center",
+        "border-top": "1px solid #1f2937",
+        "column-gap": "5px",
+        "display": "flex",
+        "flex-wrap": "wrap",
+        "font-size": "0.85rem",
+        "justify-content": "center",
+        "margin": "48px auto 0px auto",
+        "padding": "24px 0px 0px 0px",
+        "text-align": "center"
+      }
+    },
+    {
+      "selectors": [
+        "docs-section"
+      ],
+      "style": {
+        "padding": "64px 0"
+      }
+    },
+    {
+      "selectors": [
+        "docs-section--sm"
+      ],
+      "style": {
+        "padding": "32px 0"
+      }
+    },
+    {
+      "selectors": [
+        "docs-section--lg"
+      ],
+      "style": {
+        "padding": "96px 0"
+      }
+    },
+    {
+      "selectors": [
+        "docs-section--alt"
+      ],
+      "style": {
+        "background-color": "#ffffff"
+      }
+    },
+    {
+      "selectors": [
+        "docs-layout"
+      ],
+      "style": {
+        "align-items": "flex-start",
+        "display": "flex",
+        "min-height": "calc(100vh - 64px)"
+      }
+    },
+    {
+      "selectors": [
+        "docs-layout__sidebar"
+      ],
+      "style": {
+        "flex-shrink": "0",
+        "width": "280px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-layout__main"
+      ],
+      "style": {
+        "flex": "1",
+        "min-width": "0"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "ul, ol",
+      "style": {
+        "margin": "0 0 1em 0",
+        "padding-left": "1.5em"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "li",
+      "style": {
+        "margin-bottom": "0.5em"
+      }
+    },
+    {
+      "selectors": [
+        "docs-features"
+      ],
+      "style": {
+        "display": "flex",
+        "flex-wrap": "wrap",
+        "gap": "24px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-features__item"
+      ],
+      "style": {
+        "flex": "1 1 280px",
+        "max-width": "100%"
+      }
+    },
+    {
+      "selectors": [
+        "#i8k7q"
+      ],
+      "style": {
+        "display": "block",
+        "text-decoration": "none"
+      }
+    },
+    {
+      "selectors": [
+        "#inwzi"
+      ],
+      "style": {
+        "display": "block",
+        "text-decoration": "none"
+      }
+    },
+    {
+      "selectors": [
+        "#io5s4"
+      ],
+      "style": {
+        "display": "block",
+        "text-decoration": "none"
+      }
+    },
+    {
+      "selectors": [
+        "#iapv3"
+      ],
+      "style": {
+        "display": "block",
+        "text-decoration": "none"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 992px)",
+      "selectors": [
+        "docs-header__nav"
+      ],
+      "style": {
+        "gap": "20px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 992px)",
+      "selectors": [
+        "docs-layout"
+      ],
+      "style": {
+        "flex-direction": "column"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 992px)",
+      "selectors": [
+        "docs-sidebar"
+      ],
+      "style": {
+        "border-bottom": "1px solid #e5e7eb",
+        "border-right": "none",
+        "height": "auto",
+        "padding": "24px",
+        "position": "relative",
+        "top": "0",
+        "width": "100%"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 992px)",
+      "selectors": [
+        "docs-sidebar__section"
+      ],
+      "style": {
+        "display": "inline-block",
+        "margin-bottom": "0",
+        "margin-right": "32px",
+        "vertical-align": "top"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 992px)",
+      "selectors": [
+        "docs-content"
+      ],
+      "style": {
+        "padding": "32px 24px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 992px)",
+      "selectors": [
+        "docs-hero"
+      ],
+      "style": {
+        "padding": "60px 24px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 992px)",
+      "selectors": [
+        "docs-hero__title"
+      ],
+      "style": {
+        "font-size": "2.5rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 992px)",
+      "selectors": [
+        "docs-footer__inner"
+      ],
+      "style": {
+        "gap": "32px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 992px)",
+      "selectors": [
+        "docs-footer__section"
+      ],
+      "style": {
+        "min-width": "140px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 992px)",
+      "selectors": [
+        "docs-features__item"
+      ],
+      "style": {
+        "flex": "1 1 240px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 992px)",
+      "selectors": [],
+      "selectorsAdd": "h1",
+      "style": {
+        "font-size": "2rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 992px)",
+      "selectors": [],
+      "selectorsAdd": "h2",
+      "style": {
+        "font-size": "1.75rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-header"
+      ],
+      "style": {
+        "height": "56px",
+        "padding": "0 16px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-header__inner"
+      ],
+      "style": {
+        "flex-wrap": "wrap"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-main"
+      ],
+      "style": {
+        "padding-top": "56px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-sidebar"
+      ],
+      "style": {
+        "display": "none",
+        "overflow-x": "auto",
+        "padding": "16px",
+        "white-space": "nowrap"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-sidebar__section"
+      ],
+      "style": {
+        "display": "inline-block",
+        "margin-right": "24px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-sidebar__title"
+      ],
+      "style": {
+        "margin-bottom": "8px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-sidebar__list"
+      ],
+      "style": {
+        "display": "flex",
+        "gap": "8px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-sidebar__link"
+      ],
+      "style": {
+        "padding": "6px 10px",
+        "white-space": "nowrap"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-content"
+      ],
+      "style": {
+        "max-width": "100%",
+        "padding": "24px 16px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-content__title"
+      ],
+      "style": {
+        "font-size": "1.75rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-hero"
+      ],
+      "style": {
+        "padding": "48px 16px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-hero__title"
+      ],
+      "style": {
+        "font-size": "2rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-hero__subtitle"
+      ],
+      "style": {
+        "font-size": "1.1rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-hero__actions"
+      ],
+      "style": {
+        "align-items": "center",
+        "flex-direction": "column"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-btn"
+      ],
+      "style": {
+        "justify-content": "center",
+        "max-width": "280px",
+        "width": "100%"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-section"
+      ],
+      "style": {
+        "padding": "48px 0"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-features"
+      ],
+      "style": {
+        "flex-direction": "column"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-features__item"
+      ],
+      "style": {
+        "flex": "1 1 100%"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-card"
+      ],
+      "style": {
+        "padding": "20px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-footer"
+      ],
+      "style": {
+        "padding": "48px 16px 24px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-footer__inner"
+      ],
+      "style": {
+        "flex-direction": "row",
+        "gap": "24px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-footer__section"
+      ],
+      "style": {
+        "display": "flex",
+        "flex-direction": "column",
+        "min-width": "46%"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [],
+      "selectorsAdd": "pre",
+      "style": {
+        "font-size": "0.85rem",
+        "padding": "16px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [],
+      "selectorsAdd": "table",
+      "style": {
+        "display": "block",
+        "overflow-x": "auto"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [],
+      "selectorsAdd": "th, td",
+      "style": {
+        "padding": "10px 12px",
+        "white-space": "nowrap"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-callout"
+      ],
+      "style": {
+        "padding": "14px 16px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [],
+      "selectorsAdd": "details",
+      "style": {
+        "margin": "0.75em 0"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [],
+      "selectorsAdd": "summary",
+      "style": {
+        "padding": "14px 16px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [],
+      "selectorsAdd": "details > div",
+      "style": {
+        "padding": "14px 16px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [],
+      "selectorsAdd": "h1",
+      "style": {
+        "font-size": "1.75rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [],
+      "selectorsAdd": "h2",
+      "style": {
+        "font-size": "1.5rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [],
+      "selectorsAdd": "h3",
+      "style": {
+        "font-size": "1.25rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [],
+      "selectorsAdd": "body",
+      "style": {
+        "font-size": "15px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-header"
+      ],
+      "style": {
+        "height": "52px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-header__logo"
+      ],
+      "style": {
+        "font-size": "1.1rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-main"
+      ],
+      "style": {
+        "padding-top": "52px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-sidebar"
+      ],
+      "style": {
+        "padding": "12px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-sidebar__section"
+      ],
+      "style": {
+        "margin-right": "16px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-sidebar__title"
+      ],
+      "style": {
+        "font-size": "0.7rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-sidebar__link"
+      ],
+      "style": {
+        "font-size": "0.85rem",
+        "padding": "5px 8px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-content"
+      ],
+      "style": {
+        "padding": "20px 12px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        {
+          "label": "docs-content__header",
+          "name": "docs-content__header-hr"
+        }
+      ],
+      "style": {
+        "margin-bottom": "24px",
+        "padding-bottom": "16px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-content__title"
+      ],
+      "style": {
+        "font-size": "1.5rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-content__description"
+      ],
+      "style": {
+        "font-size": "1rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-hero"
+      ],
+      "style": {
+        "padding": "40px 12px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-hero__title"
+      ],
+      "style": {
+        "font-size": "1.75rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-hero__subtitle"
+      ],
+      "style": {
+        "font-size": "1rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-container"
+      ],
+      "style": {
+        "padding": "0 12px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-section"
+      ],
+      "style": {
+        "padding": "40px 0"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-card"
+      ],
+      "style": {
+        "padding": "16px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-card__icon"
+      ],
+      "style": {
+        "font-size": "1.5rem",
+        "margin-bottom": "12px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-card__title"
+      ],
+      "style": {
+        "font-size": "1rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-card__description"
+      ],
+      "style": {
+        "font-size": "0.85rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-btn"
+      ],
+      "style": {
+        "font-size": "0.9rem",
+        "padding": "10px 16px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-footer"
+      ],
+      "style": {
+        "padding": "40px 12px 20px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-footer__title"
+      ],
+      "style": {
+        "font-size": "0.8rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-footer__link"
+      ],
+      "style": {
+        "font-size": "0.85rem",
+        "padding": "5px 0"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-footer__bottom"
+      ],
+      "style": {
+        "font-size": "0.8rem",
+        "margin-top": "32px",
+        "padding-top": "16px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [],
+      "selectorsAdd": "pre",
+      "style": {
+        "border-radius": "6px",
+        "font-size": "0.8rem",
+        "padding": "14px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [],
+      "selectorsAdd": "code",
+      "style": {
+        "font-size": "0.8em",
+        "padding": "1px 4px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-callout"
+      ],
+      "style": {
+        "border-radius": "6px",
+        "padding": "12px 14px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-callout__title"
+      ],
+      "style": {
+        "font-size": "0.9rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [
+        "docs-callout__content"
+      ],
+      "style": {
+        "font-size": "0.85rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [],
+      "selectorsAdd": "summary",
+      "style": {
+        "font-size": "0.95rem",
+        "padding": "12px 14px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [],
+      "selectorsAdd": "details > div",
+      "style": {
+        "font-size": "0.9rem",
+        "padding": "12px 14px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [],
+      "selectorsAdd": "h1",
+      "style": {
+        "font-size": "1.5rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [],
+      "selectorsAdd": "h2",
+      "style": {
+        "font-size": "1.35rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [],
+      "selectorsAdd": "h3",
+      "style": {
+        "font-size": "1.15rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [],
+      "selectorsAdd": "h4",
+      "style": {
+        "font-size": "1.05rem"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 480px)",
+      "selectors": [],
+      "selectorsAdd": "p",
+      "style": {
+        "font-size": "0.95rem"
+      }
+    },
+    {
+      "selectors": [
+        "docs-header__menu-toggle"
+      ],
+      "style": {
+        "background": "none",
+        "border": "none",
+        "color": "#374151",
+        "cursor": "pointer",
+        "display": "none",
+        "font-size": "1.5rem",
+        "padding": "8px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-header__menu-toggle"
+      ],
+      "style": {
+        "display": "block"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "html",
+      "style": {
+        "scroll-behavior": "smooth",
+        "scroll-padding-top": "80px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [],
+      "selectorsAdd": "html",
+      "style": {
+        "scroll-padding-top": "60px"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "a:focus, button:focus, input:focus",
+      "style": {
+        "outline": "2px solid #2563eb",
+        "outline-offset": "2px"
+      }
+    },
+    {
+      "selectors": [],
+      "selectorsAdd": "::selection",
+      "style": {
+        "background-color": "#dbeafe",
+        "color": "#1e40af"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "navbar__toggle"
+      ],
+      "style": {
+        "cursor": "pointer",
+        "display": "block",
+        "font-size": "1.8rem",
+        "padding": "0px 10px 0px 10px"
+      }
+    },
+    {
+      "selectors": [
+        "navbar__toggle"
+      ],
+      "style": {
+        "display": "none"
+      }
+    },
+    {
+      "selectors": [
+        "navbar__checkbox"
+      ],
+      "style": {
+        "display": "none"
+      }
+    },
+    {
+      "atRule": "media",
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "navbar__menu"
+      ],
+      "style": {
+        "background-attachment": "initial",
+        "background-clip": "initial",
+        "background-color": "white",
+        "background-image": "initial",
+        "background-origin": "initial",
+        "background-position-x": "initial",
+        "background-position-y": "initial",
+        "background-repeat": "initial",
+        "background-size": "initial",
+        "box-shadow": "rgba(0, 0, 0, 0.1) 0px 4px 10px",
+        "display": "flex",
+        "flex-direction": "column",
+        "left": "0px",
+        "max-height": "0px",
+        "opacity": "0",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding": "0px",
+        "position": "absolute",
+        "right": "0px",
+        "top": "52px",
+        "transition": "all 0.3s ease-in-out",
+        "transition-behavior": "normal",
+        "transition-delay": "0s"
+      }
+    },
+    {
+      "atRule": "",
+      "selectors": [
+        "navbar__menu"
+      ],
+      "style": {
+        "align-items": "center",
+        "column-gap": "32px",
+        "display": "flex",
+        "row-gap": "32px"
+      }
+    },
+    {
+      "atRule": "media",
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [],
+      "selectorsAdd": ".navbar__checkbox:checked ~ .navbar__menu",
+      "style": {
+        "max-height": "100vh",
+        "opacity": "1",
+        "padding": "90px 20px 50px 20px"
+      }
+    },
+    {
+      "selectors": [
+        "menu-radio"
+      ],
+      "style": {
+        "display": "none"
+      }
+    },
+    {
+      "atRule": "",
+      "selectors": [
+        "docs-sidebar__link"
+      ],
+      "state": "focus",
+      "style": {
+        "background-color": "#e6f0ff",
+        "color": "#0066ff",
+        "font-weight": "700"
+      }
+    },
+    {
+      "selectors": [
+        "h1"
+      ],
+      "style": {
+        "color": "#0066ff",
+        "font-size": "1rem",
+        "font-weight": "600",
+        "text-transform": "uppercase"
+      }
+    },
+    {
+      "atRule": "",
+      "selectors": [],
+      "selectorsAdd": "h1 + h2",
+      "style": {
+        "padding": "0em 0px 0em 0px"
+      }
+    },
+    {
+      "atRule": "",
+      "selectors": [],
+      "selectorsAdd": ".docs-content__header-hr + p",
+      "style": {
+        "margin": "50px 0px 0px 0px"
+      }
+    },
+    {
+      "selectors": [
+        "cc-footer-attribution"
+      ],
+      "style": {
+        "display": "flex",
+        "font-size": "11px"
+      }
+    },
+    {
+      "selectors": [
+        "cc-footer-attribution__svg"
+      ],
+      "style": {
+        "height": "14px"
+      }
+    },
+    {
+      "selectors": [
+        "cc-icon"
+      ],
+      "style": {
+        "height": "14px"
+      }
+    },
+    {
+      "selectors": [
+        "docs-footer__bottom-p"
+      ],
+      "style": {
+        "margin": "0px"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "docs-header__search"
+      ],
+      "style": {
+        "left": "10px",
+        "opacity": "0",
+        "position": "absolute",
+        "right": "10px",
+        "top": "66px"
+      }
+    },
+    {
+      "atRule": "media",
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [],
+      "selectorsAdd": ".navbar__checkbox:checked ~ .doc-header__search",
+      "style": {
+        "display": "block",
+        "left": "10px",
+        "position": "absolute",
+        "right": "10px",
+        "top": "64px"
+      }
+    },
+    {
+      "atRule": "media",
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [],
+      "selectorsAdd": ".navbar__checkbox:checked ~ .docs-header__search",
+      "style": {
+        "opacity": "1"
+      }
+    },
+    {
+      "atRule": "",
+      "selectors": [
+        "pagefind-ui__drawer"
+      ],
+      "style": {
+        "background-color": "#ffffff",
+        "border-radius": "5px",
+        "box-shadow": "0px 3px 5px 3px rgba(90,90,90,0.11) ",
+        "margin": "0px 5px 0px 5px",
+        "max-height": "70vh",
+        "overflow": "auto auto",
+        "padding": "0px 20px 20px 20px"
+      }
+    },
+    {
+      "selectors": [
+        "silex-default-container"
+      ],
+      "style": {
+        "min-height": "100px"
+      }
+    },
+    {
+      "selectors": [
+        "silex-default-text"
+      ],
+      "style": {
+        "padding": "10px"
+      }
+    },
+    {
+      "selectors": [
+        "navbar__overlay"
+      ],
+      "style": {
+        "display": "none",
+        "opacity": "0"
+      }
+    },
+    {
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "navbar__overlay"
+      ],
+      "style": {
+        "background-color": "rgba(0,0,0,0.5)",
+        "bottom": "0px",
+        "height": "100vh",
+        "left": "0px",
+        "position": "fixed",
+        "right": "0px",
+        "top": "52px",
+        "width": "100%",
+        "z-index": "-1"
+      }
+    },
+    {
+      "atRule": "media",
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [],
+      "selectorsAdd": ".navbar__checkbox:checked .navbar__overlay",
+      "style": {
+        "display": "block",
+        "opacity": "1"
+      }
+    },
+    {
+      "atRule": "media",
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [],
+      "selectorsAdd": ".navbar__checkbox:checked ~ .navbar__overlay",
+      "style": {
+        "display": "block",
+        "opacity": "1"
+      }
+    },
+    {
+      "atRule": "media",
+      "atRuleType": "media",
+      "mediaText": "(max-width: 768px)",
+      "selectors": [
+        "navbar__overlay"
+      ],
+      "state": "focus",
+      "style": {
+        "background-color": "rgba(0,0,0,0.6)",
+        "outline": "3px solid #2563eb"
+      }
+    },
+    {
+      "selectors": [
+        "skip-link"
+      ],
+      "style": {
+        "background-color": "#2563eb",
+        "border-radius": "0 0 5px 0",
+        "color": "white",
+        "font-weight": "bold",
+        "left": "0",
+        "padding": "12px 24px",
+        "position": "absolute",
+        "text-decoration": "none",
+        "top": "-100px",
+        "transition": "top 0.2s",
+        "z-index": "9999"
+      }
+    },
+    {
+      "selectors": [
+        "skip-link"
+      ],
+      "state": "focus",
+      "style": {
+        "outline": "3px solid #ffcc00",
+        "top": "0"
+      }
+    },
+    {
+      "atRule": "",
+      "selectors": [
+        "#iozyf"
+      ],
+      "style": {
+        "background-color": "#f3f4f6"
+      }
+    },
+    {
+      "selectors": [
+        "#iov89g"
+      ],
+      "style": {
+        "height": "324px",
+        "width": "187px"
+      }
+    },
+    {
+      "selectors": [
+        "#ihvp7q"
+      ],
+      "style": {
+        "height": "324px",
+        "width": "243px"
+      }
+    },
+    {
+      "selectors": [
+        "#i9trkb"
+      ],
+      "style": {
+        "height": "324px",
+        "width": "213px"
+      }
+    },
+    {
+      "selectors": [
+        "#i4chly"
+      ],
+      "style": {
+        "height": "324px",
+        "width": "243px"
+      }
+    },
+    {
+      "selectors": [
+        "#ifavv8"
+      ],
+      "style": {
+        "height": "322px",
+        "width": "247px"
+      }
+    },
+    {
+      "selectors": [
+        "#ifavv8-2"
+      ],
+      "style": {
+        "height": "322px",
+        "width": "274px"
+      }
+    },
+    {
+      "selectors": [
+        "#ifavv8-3"
+      ],
+      "style": {
+        "height": "322px",
+        "width": "247px"
+      }
+    },
+    {
+      "selectors": [
+        "#ifavv8-4"
+      ],
+      "style": {
+        "height": "322px",
+        "width": "247px"
+      }
+    },
+    {
+      "atRule": "",
+      "selectors": [
+        "#iemxqnt"
+      ],
+      "style": {
+        "font-size": "25px"
+      }
+    },
+    {
+      "selectors": [
+        "#iapv3-2"
+      ],
+      "style": {
+        "display": "block",
+        "text-decoration": "none"
+      }
+    },
+    {
+      "selectors": [
+        "#iapv3-2-2"
+      ],
+      "style": {
+        "display": "block",
+        "text-decoration": "none"
+      }
+    },
+    {
+      "selectors": [
+        "#iapv3-2-2-2"
+      ],
+      "style": {
+        "display": "block",
+        "text-decoration": "none"
+      }
+    },
+    {
+      "selectors": [
+        "#iapv3-2-2-2-2"
+      ],
+      "style": {
+        "display": "block",
+        "text-decoration": "none"
+      }
+    },
+    {
+      "selectors": [
+        "#i5x35y3"
+      ],
+      "style": {
+        "color": "rgb(35, 95, 231)"
+      }
+    },
+    {
+      "selectors": [
+        "#i5uictk"
+      ],
+      "style": {
+        "height": "343px"
+      }
+    },
+    {
+      "atRule": "",
+      "selectors": [
+        "#ivyyqfe"
+      ],
+      "style": {
+        "font-size": "28px"
+      }
+    },
+    {
+      "selectors": [
+        "#ib5nw9r"
+      ],
+      "style": {
+        "font-size": "20px"
+      }
+    },
+    {
+      "selectors": [
+        "#ih4dq7k"
+      ],
+      "style": {
+        "font-size": "28px"
+      }
+    },
+    {
+      "atRule": "",
+      "selectors": [
+        "#it9e1j7"
+      ],
+      "style": {
+        "color": "#c21212",
+        "font-size": "35px"
+      }
+    },
+    {
+      "selectors": [
+        "#i75sg9h"
+      ],
+      "style": {
+        "color": "rgb(55, 65, 81)",
+        "font-size": "28px"
+      }
+    },
+    {
+      "atRule": "",
+      "selectors": [
+        "#ixuehjo"
+      ],
+      "style": {
+        "font-size": "28px"
+      }
+    },
+    {
+      "selectors": [
+        "#irv70bq-2"
+      ],
+      "style": {
+        "height": "195px",
+        "width": "195px"
+      }
+    },
+    {
+      "selectors": [
+        "#itapqe-2"
+      ],
+      "style": {
+        "height": "123px",
+        "width": "150px"
+      }
+    },
+    {
+      "selectors": [
+        "#itapqe-2-2"
+      ],
+      "style": {
+        "height": "70px",
+        "width": "85px"
+      }
+    },
+    {
+      "selectors": [
+        "#itapqe-2-3"
+      ],
+      "style": {
+        "height": "70px",
+        "width": "85px"
+      }
+    },
+    {
+      "selectors": [
+        "#itapqe-2-4"
+      ],
+      "style": {
+        "height": "70px",
+        "width": "85px"
+      }
+    },
+    {
+      "selectors": [
+        "#itapqe-2-5"
+      ],
+      "style": {
+        "height": "70px",
+        "width": "85px"
+      }
+    },
+    {
+      "selectors": [
+        "#itapqe-2-6"
+      ],
+      "style": {
+        "height": "70px",
+        "width": "85px"
+      }
+    },
+    {
+      "selectors": [
+        "#i1fu0a7"
+      ],
+      "style": {
+        "font-size": "35px"
+      }
+    }
+  ],
+  "symbols": [
+    {
+      "__symbols": [
+        "iahj-2-2-2-3",
+        "iahj-2-2-2-2-3",
+        "iahj-2-2-2-2-2-2",
+        "iahj-2-3-2"
+      ],
+      "attributes": {
+        "id": "iahj-2"
+      },
+      "classes": [
+        "docs-header"
+      ],
+      "custom-name": "Header",
+      "icon": "fa-bars",
+      "tagName": "header"
+    },
+    {
+      "__symbols": [
+        "ismqe",
+        "ismqe-2-3",
+        "ismqe-2-2-2",
+        "ismqe-2-2-2-2",
+        "ismqe-2-2-2-2-2"
+      ],
+      "attributes": {
+        "id": "ismqe-2"
+      },
+      "classes": [
+        "docs-footer"
+      ],
+      "components": [
+        {
+          "__symbols": [
+            "ijiu9",
+            "ijiu9-2-3",
+            "ijiu9-2-2-2",
+            "ijiu9-2-2-2-2",
+            "ijiu9-2-2-2-2-2"
+          ],
+          "attributes": {
+            "id": "ijiu9-2"
+          },
+          "classes": [
+            "docs-footer__inner"
+          ],
+          "components": [
+            {
+              "__symbols": [
+                "i1ccg",
+                "i1ccg-2-3",
+                "i1ccg-2-2-2",
+                "i1ccg-2-2-2-2",
+                "i1ccg-2-2-2-2-2"
+              ],
+              "attributes": {
+                "id": "i1ccg-2"
+              },
+              "classes": [
+                "docs-footer__section"
+              ],
+              "components": [
+                {
+                  "__symbols": [
+                    "io7aj",
+                    "io7aj-2-3",
+                    "io7aj-2-2-2",
+                    "io7aj-2-2-2-2",
+                    "io7aj-2-2-2-2-2"
+                  ],
+                  "attributes": {
+                    "id": "io7aj-2"
+                  },
+                  "classes": [
+                    "docs-footer__title"
+                  ],
+                  "content": "Documentation",
+                  "tagName": "h4",
+                  "type": "text"
+                },
+                {
+                  "__symbols": [
+                    "idktg",
+                    "idktg-2-3",
+                    "idktg-2-2-2",
+                    "idktg-2-2-2-2",
+                    "idktg-2-2-2-2-2"
+                  ],
+                  "attributes": {
+                    "id": "idktg-2"
+                  },
+                  "classes": [
+                    "docs-footer__list"
+                  ],
+                  "components": [
+                    {
+                      "__symbols": [
+                        "i4ybf",
+                        "i4ybf-2-3",
+                        "i4ybf-2-2-2",
+                        "i4ybf-2-2-2-2",
+                        "i4ybf-2-2-2-2-2"
+                      ],
+                      "attributes": {
+                        "id": "i4ybf-2"
+                      },
+                      "components": [
+                        {
+                          "__symbols": [
+                            "ia6xk",
+                            "ia6xk-2-3",
+                            "ia6xk-2-2-2",
+                            "ia6xk-2-2-2-2",
+                            "ia6xk-2-2-2-2-2"
+                          ],
+                          "attributes": {
+                            "href": "./docs.html",
+                            "id": "ia6xk-2"
+                          },
+                          "classes": [
+                            "docs-footer__link"
+                          ],
+                          "content": "Getting Started",
+                          "tagName": "a",
+                          "type": "text"
+                        }
+                      ],
+                      "tagName": "li"
+                    },
+                    {
+                      "__symbols": [
+                        "isosa",
+                        "isosa-2-3",
+                        "isosa-2-2-2",
+                        "isosa-2-2-2-2",
+                        "isosa-2-2-2-2-2"
+                      ],
+                      "attributes": {
+                        "id": "isosa-2"
+                      },
+                      "components": [
+                        {
+                          "__symbols": [
+                            "izgng",
+                            "izgng-2-3",
+                            "izgng-2-2-2",
+                            "izgng-2-2-2-2",
+                            "izgng-2-2-2-2-2"
+                          ],
+                          "attributes": {
+                            "href": "./guides.html",
+                            "id": "izgng-2"
+                          },
+                          "classes": [
+                            "docs-footer__link"
+                          ],
+                          "content": "Guides",
+                          "tagName": "a",
+                          "type": "text"
+                        }
+                      ],
+                      "tagName": "li"
+                    },
+                    {
+                      "__symbols": [
+                        "igk4r",
+                        "igk4r-2-3",
+                        "igk4r-2-2-2",
+                        "igk4r-2-2-2-2",
+                        "igk4r-2-2-2-2-2"
+                      ],
+                      "attributes": {
+                        "id": "igk4r-2"
+                      },
+                      "components": [
+                        {
+                          "__symbols": [
+                            "iq6gj",
+                            "iq6gj-2-3",
+                            "iq6gj-2-2-2",
+                            "iq6gj-2-2-2-2",
+                            "iq6gj-2-2-2-2-2"
+                          ],
+                          "attributes": {
+                            "href": "./guides.html#api",
+                            "id": "iq6gj-2"
+                          },
+                          "classes": [
+                            "docs-footer__link"
+                          ],
+                          "content": "API Reference",
+                          "tagName": "a",
+                          "type": "text"
+                        }
+                      ],
+                      "tagName": "li"
+                    },
+                    {
+                      "__symbols": [
+                        "ibztdk",
+                        "ibztdk-2-3",
+                        "ibztdk-2-2-2",
+                        "ibztdk-2-2-2-2",
+                        "ibztdk-2-2-2-2-2"
+                      ],
+                      "attributes": {
+                        "id": "ibztdk-2"
+                      },
+                      "components": [
+                        {
+                          "__symbols": [
+                            "itzi6z",
+                            "itzi6z-2-3",
+                            "itzi6z-2-2-2",
+                            "itzi6z-2-2-2-2",
+                            "itzi6z-2-2-2-2-2"
+                          ],
+                          "attributes": {
+                            "href": "#examples",
+                            "id": "itzi6z-2"
+                          },
+                          "classes": [
+                            "docs-footer__link"
+                          ],
+                          "content": "Examples",
+                          "tagName": "a",
+                          "type": "text"
+                        }
+                      ],
+                      "tagName": "li"
+                    }
+                  ],
+                  "tagName": "ul"
+                }
+              ]
+            },
+            {
+              "__symbols": [
+                "iklkc5",
+                "iklkc5-2-3",
+                "iklkc5-2-2-2",
+                "iklkc5-2-2-2-2",
+                "iklkc5-2-2-2-2-2"
+              ],
+              "attributes": {
+                "id": "iklkc5-2"
+              },
+              "classes": [
+                "docs-footer__section"
+              ],
+              "components": [
+                {
+                  "__symbols": [
+                    "idsa75",
+                    "idsa75-2-3",
+                    "idsa75-2-2-2",
+                    "idsa75-2-2-2-2",
+                    "idsa75-2-2-2-2-2"
+                  ],
+                  "attributes": {
+                    "id": "idsa75-2"
+                  },
+                  "classes": [
+                    "docs-footer__title"
+                  ],
+                  "content": "Community",
+                  "tagName": "h4",
+                  "type": "text"
+                },
+                {
+                  "__symbols": [
+                    "iuvsyk",
+                    "iuvsyk-2-3",
+                    "iuvsyk-2-2-2",
+                    "iuvsyk-2-2-2-2",
+                    "iuvsyk-2-2-2-2-2"
+                  ],
+                  "attributes": {
+                    "id": "iuvsyk-2"
+                  },
+                  "classes": [
+                    "docs-footer__list"
+                  ],
+                  "components": [
+                    {
+                      "__symbols": [
+                        "iaru49",
+                        "iaru49-2-3",
+                        "iaru49-2-2-2",
+                        "iaru49-2-2-2-2",
+                        "iaru49-2-2-2-2-2"
+                      ],
+                      "attributes": {
+                        "id": "iaru49-2"
+                      },
+                      "components": [
+                        {
+                          "__symbols": [
+                            "il5idp",
+                            "il5idp-2-3",
+                            "il5idp-2-2-2",
+                            "il5idp-2-2-2-2",
+                            "il5idp-2-2-2-2-2"
+                          ],
+                          "attributes": {
+                            "href": "https://github.com",
+                            "id": "il5idp-2",
+                            "target": "_blank"
+                          },
+                          "classes": [
+                            "docs-footer__link"
+                          ],
+                          "content": "GitHub",
+                          "tagName": "a",
+                          "type": "text"
+                        }
+                      ],
+                      "tagName": "li"
+                    },
+                    {
+                      "__symbols": [
+                        "i9ec2l",
+                        "i9ec2l-2-3",
+                        "i9ec2l-2-2-2",
+                        "i9ec2l-2-2-2-2",
+                        "i9ec2l-2-2-2-2-2"
+                      ],
+                      "attributes": {
+                        "id": "i9ec2l-2"
+                      },
+                      "components": [
+                        {
+                          "__symbols": [
+                            "i673f3",
+                            "i673f3-2-3",
+                            "i673f3-2-2-2",
+                            "i673f3-2-2-2-2",
+                            "i673f3-2-2-2-2-2"
+                          ],
+                          "attributes": {
+                            "href": "https://discord.com",
+                            "id": "i673f3-2",
+                            "target": "_blank"
+                          },
+                          "classes": [
+                            "docs-footer__link"
+                          ],
+                          "content": "Discord",
+                          "tagName": "a",
+                          "type": "text"
+                        }
+                      ],
+                      "tagName": "li"
+                    },
+                    {
+                      "__symbols": [
+                        "i1kijx",
+                        "i1kijx-2-3",
+                        "i1kijx-2-2-2",
+                        "i1kijx-2-2-2-2",
+                        "i1kijx-2-2-2-2-2"
+                      ],
+                      "attributes": {
+                        "id": "i1kijx-2"
+                      },
+                      "components": [
+                        {
+                          "__symbols": [
+                            "idqn2h",
+                            "idqn2h-2-3",
+                            "idqn2h-2-2-2",
+                            "idqn2h-2-2-2-2",
+                            "idqn2h-2-2-2-2-2"
+                          ],
+                          "attributes": {
+                            "href": "https://twitter.com",
+                            "id": "idqn2h-2",
+                            "target": "_blank"
+                          },
+                          "classes": [
+                            "docs-footer__link"
+                          ],
+                          "content": "Twitter",
+                          "tagName": "a",
+                          "type": "text"
+                        }
+                      ],
+                      "tagName": "li"
+                    },
+                    {
+                      "__symbols": [
+                        "i9zn51",
+                        "i9zn51-2-3",
+                        "i9zn51-2-2-2",
+                        "i9zn51-2-2-2-2",
+                        "i9zn51-2-2-2-2-2"
+                      ],
+                      "attributes": {
+                        "id": "i9zn51-2"
+                      },
+                      "components": [
+                        {
+                          "__symbols": [
+                            "ifb1zi",
+                            "ifb1zi-2-3",
+                            "ifb1zi-2-2-2",
+                            "ifb1zi-2-2-2-2",
+                            "ifb1zi-2-2-2-2-2"
+                          ],
+                          "attributes": {
+                            "href": "#blog",
+                            "id": "ifb1zi-2"
+                          },
+                          "classes": [
+                            "docs-footer__link"
+                          ],
+                          "content": "Blog",
+                          "tagName": "a",
+                          "type": "text"
+                        }
+                      ],
+                      "tagName": "li"
+                    }
+                  ],
+                  "tagName": "ul"
+                }
+              ]
+            },
+            {
+              "__symbols": [
+                "i9pav4",
+                "i9pav4-2-3",
+                "i9pav4-2-2-2",
+                "i9pav4-2-2-2-2",
+                "i9pav4-2-2-2-2-2"
+              ],
+              "attributes": {
+                "id": "i9pav4-2"
+              },
+              "classes": [
+                "docs-footer__section"
+              ],
+              "components": [
+                {
+                  "__symbols": [
+                    "ixof4c",
+                    "ixof4c-2-3",
+                    "ixof4c-2-2-2",
+                    "ixof4c-2-2-2-2",
+                    "ixof4c-2-2-2-2-2"
+                  ],
+                  "attributes": {
+                    "id": "ixof4c-2"
+                  },
+                  "classes": [
+                    "docs-footer__title"
+                  ],
+                  "content": "Resources",
+                  "tagName": "h4",
+                  "type": "text"
+                },
+                {
+                  "__symbols": [
+                    "i38f6d",
+                    "i38f6d-2-3",
+                    "i38f6d-2-2-2",
+                    "i38f6d-2-2-2-2",
+                    "i38f6d-2-2-2-2-2"
+                  ],
+                  "attributes": {
+                    "id": "i38f6d-2"
+                  },
+                  "classes": [
+                    "docs-footer__list"
+                  ],
+                  "components": [
+                    {
+                      "__symbols": [
+                        "iw2t8j",
+                        "iw2t8j-2-3",
+                        "iw2t8j-2-2-2",
+                        "iw2t8j-2-2-2-2",
+                        "iw2t8j-2-2-2-2-2"
+                      ],
+                      "attributes": {
+                        "id": "iw2t8j-2"
+                      },
+                      "components": [
+                        {
+                          "__symbols": [
+                            "ik32bh",
+                            "ik32bh-2-3",
+                            "ik32bh-2-2-2",
+                            "ik32bh-2-2-2-2",
+                            "ik32bh-2-2-2-2-2"
+                          ],
+                          "attributes": {
+                            "href": "#changelog",
+                            "id": "ik32bh-2"
+                          },
+                          "classes": [
+                            "docs-footer__link"
+                          ],
+                          "content": "Changelog",
+                          "tagName": "a",
+                          "type": "text"
+                        }
+                      ],
+                      "tagName": "li"
+                    },
+                    {
+                      "__symbols": [
+                        "ihujyi",
+                        "ihujyi-2-3",
+                        "ihujyi-2-2-2",
+                        "ihujyi-2-2-2-2",
+                        "ihujyi-2-2-2-2-2"
+                      ],
+                      "attributes": {
+                        "id": "ihujyi-2"
+                      },
+                      "components": [
+                        {
+                          "__symbols": [
+                            "iug8g2",
+                            "iug8g2-2-3",
+                            "iug8g2-2-2-2",
+                            "iug8g2-2-2-2-2",
+                            "iug8g2-2-2-2-2-2"
+                          ],
+                          "attributes": {
+                            "href": "#roadmap",
+                            "id": "iug8g2-2"
+                          },
+                          "classes": [
+                            "docs-footer__link"
+                          ],
+                          "content": "Roadmap",
+                          "tagName": "a",
+                          "type": "text"
+                        }
+                      ],
+                      "tagName": "li"
+                    },
+                    {
+                      "__symbols": [
+                        "ikxf1i",
+                        "ikxf1i-2-3",
+                        "ikxf1i-2-2-2",
+                        "ikxf1i-2-2-2-2",
+                        "ikxf1i-2-2-2-2-2"
+                      ],
+                      "attributes": {
+                        "id": "ikxf1i-2"
+                      },
+                      "components": [
+                        {
+                          "__symbols": [
+                            "i64or9",
+                            "i64or9-2-3",
+                            "i64or9-2-2-2",
+                            "i64or9-2-2-2-2",
+                            "i64or9-2-2-2-2-2"
+                          ],
+                          "attributes": {
+                            "href": "#contributing",
+                            "id": "i64or9-2"
+                          },
+                          "classes": [
+                            "docs-footer__link"
+                          ],
+                          "content": "Contributing",
+                          "tagName": "a",
+                          "type": "text"
+                        }
+                      ],
+                      "tagName": "li"
+                    },
+                    {
+                      "__symbols": [
+                        "iu53wz",
+                        "iu53wz-2-3",
+                        "iu53wz-2-2-2",
+                        "iu53wz-2-2-2-2",
+                        "iu53wz-2-2-2-2-2"
+                      ],
+                      "attributes": {
+                        "id": "iu53wz-2"
+                      },
+                      "components": [
+                        {
+                          "__symbols": [
+                            "ioechv",
+                            "ioechv-2-3",
+                            "ioechv-2-2-2",
+                            "ioechv-2-2-2-2",
+                            "ioechv-2-2-2-2-2"
+                          ],
+                          "attributes": {
+                            "href": "#license",
+                            "id": "ioechv-2"
+                          },
+                          "classes": [
+                            "docs-footer__link"
+                          ],
+                          "content": "License (MIT)",
+                          "tagName": "a",
+                          "type": "text"
+                        }
+                      ],
+                      "tagName": "li"
+                    }
+                  ],
+                  "tagName": "ul"
+                }
+              ]
+            },
+            {
+              "__symbols": [
+                "iwi47m",
+                "iwi47m-2-3",
+                "iwi47m-2-2-2",
+                "iwi47m-2-2-2-2",
+                "iwi47m-2-2-2-2-2"
+              ],
+              "attributes": {
+                "id": "iwi47m-2"
+              },
+              "classes": [
+                "docs-footer__section"
+              ],
+              "components": [
+                {
+                  "__symbols": [
+                    "ikq5qk",
+                    "ikq5qk-2-3",
+                    "ikq5qk-2-2-2",
+                    "ikq5qk-2-2-2-2",
+                    "ikq5qk-2-2-2-2-2"
+                  ],
+                  "attributes": {
+                    "id": "ikq5qk-2"
+                  },
+                  "classes": [
+                    "docs-footer__title"
+                  ],
+                  "content": "Contact",
+                  "tagName": "h4",
+                  "type": "text"
+                },
+                {
+                  "__symbols": [
+                    "i27pay",
+                    "i27pay-2-3",
+                    "i27pay-2-2-2",
+                    "i27pay-2-2-2-2",
+                    "i27pay-2-2-2-2-2"
+                  ],
+                  "attributes": {
+                    "id": "i27pay-2"
+                  },
+                  "classes": [
+                    "docs-footer__list"
+                  ],
+                  "components": [
+                    {
+                      "__symbols": [
+                        "ilvtg8",
+                        "ilvtg8-2-3",
+                        "ilvtg8-2-2-2",
+                        "ilvtg8-2-2-2-2",
+                        "ilvtg8-2-2-2-2-2"
+                      ],
+                      "attributes": {
+                        "id": "ilvtg8-2"
+                      },
+                      "components": [
+                        {
+                          "__symbols": [
+                            "iomx0y",
+                            "iomx0y-2-3",
+                            "iomx0y-2-2-2",
+                            "iomx0y-2-2-2-2",
+                            "iomx0y-2-2-2-2-2"
+                          ],
+                          "attributes": {
+                            "href": "mailto:support@example.com",
+                            "id": "iomx0y-2"
+                          },
+                          "classes": [
+                            "docs-footer__link"
+                          ],
+                          "content": "support@example.com",
+                          "tagName": "a",
+                          "type": "text"
+                        }
+                      ],
+                      "tagName": "li"
+                    },
+                    {
+                      "__symbols": [
+                        "ioqnm8",
+                        "ioqnm8-2-3",
+                        "ioqnm8-2-2-2",
+                        "ioqnm8-2-2-2-2",
+                        "ioqnm8-2-2-2-2-2"
+                      ],
+                      "attributes": {
+                        "id": "ioqnm8-2"
+                      },
+                      "components": [
+                        {
+                          "__symbols": [
+                            "ii5jwf",
+                            "ii5jwf-2-3",
+                            "ii5jwf-2-2-2",
+                            "ii5jwf-2-2-2-2",
+                            "ii5jwf-2-2-2-2-2"
+                          ],
+                          "attributes": {
+                            "href": "#support",
+                            "id": "ii5jwf-2"
+                          },
+                          "classes": [
+                            "docs-footer__link"
+                          ],
+                          "content": "Support Center",
+                          "tagName": "a",
+                          "type": "text"
+                        }
+                      ],
+                      "tagName": "li"
+                    },
+                    {
+                      "__symbols": [
+                        "it3pg5",
+                        "it3pg5-2-3",
+                        "it3pg5-2-2-2",
+                        "it3pg5-2-2-2-2",
+                        "it3pg5-2-2-2-2-2"
+                      ],
+                      "attributes": {
+                        "id": "it3pg5-2"
+                      },
+                      "components": [
+                        {
+                          "__symbols": [
+                            "igoynh",
+                            "igoynh-2-3",
+                            "igoynh-2-2-2",
+                            "igoynh-2-2-2-2",
+                            "igoynh-2-2-2-2-2"
+                          ],
+                          "attributes": {
+                            "href": "#status",
+                            "id": "igoynh-2"
+                          },
+                          "classes": [
+                            "docs-footer__link"
+                          ],
+                          "content": "System Status",
+                          "tagName": "a",
+                          "type": "text"
+                        }
+                      ],
+                      "tagName": "li"
+                    }
+                  ],
+                  "tagName": "ul"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "__symbols": [
+            "i58k9g",
+            "i58k9g-2-3",
+            "i58k9g-2-2-2",
+            "i58k9g-2-2-2-2",
+            "i58k9g-2-2-2-2-2"
+          ],
+          "attributes": {
+            "id": "i58k9g-2"
+          },
+          "classes": [
+            "docs-footer__bottom",
+            "docs-container"
+          ],
+          "components": [
+            {
+              "__symbols": [
+                "iha89s000",
+                "iha89s-2-3",
+                "iha89s-2-2-2",
+                "iha89s-2-2-2-2",
+                "iha89s-2-2-2-2-2"
+              ],
+              "attributes": {
+                "id": "iha89s-2"
+              },
+              "classes": [
+                "docs-footer__bottom-p"
+              ],
+              "components": [
+                {
+                  "__symbols": [
+                    "ite3e1",
+                    "ite3e1-3",
+                    "ite3e1-4",
+                    "ite3e1-5",
+                    "ite3e1-6"
+                  ],
+                  "attributes": {
+                    "id": "ite3e1-2"
+                  },
+                  "content": "© 2026 DevDocs. Built with ",
+                  "type": "textnode"
+                },
+                {
+                  "__symbols": [
+                    "ij9a3s",
+                    "ij9a3s-3",
+                    "ij9a3s-4",
+                    "ij9a3s-5",
+                    "ij9a3s-6"
+                  ],
+                  "attributes": {
+                    "href": "https://www.silex.me/",
+                    "id": "ij9a3s-2"
+                  },
+                  "components": [
+                    {
+                      "__symbols": [
+                        "idxmp5",
+                        "idxmp5-3",
+                        "idxmp5-4",
+                        "idxmp5-5",
+                        "idxmp5-6"
+                      ],
+                      "attributes": {
+                        "id": "idxmp5-2"
+                      },
+                      "content": "Silex",
+                      "type": "textnode"
+                    }
+                  ],
+                  "originalTagName": "span",
+                  "tagName": "A",
+                  "type": "text"
+                }
+              ],
+              "selector": {
+                "mainSelector": {
+                  "pseudoClass": null,
+                  "selectors": [
+                    {
+                      "active": true,
+                      "type": "id",
+                      "value": "iha89s000"
+                    },
+                    {
+                      "active": true,
+                      "type": "class",
+                      "value": "docs-footer__bottom-p"
+                    }
+                  ]
+                }
+              },
+              "tagName": "p",
+              "type": "text"
+            },
+            {
+              "__symbols": [
+                "iha89s-2-3-2-7",
+                "iha89s-2-3-2-7-3",
+                "iha89s-2-3-2-7-4",
+                "iha89s-2-3-2-7-5",
+                "iha89s-2-3-2-7-6"
+              ],
+              "attributes": {
+                "id": "iha89s-2-3-2-7-2"
+              },
+              "classes": [
+                "docs-footer__bottom-p"
+              ],
+              "components": [
+                {
+                  "__symbols": [
+                    "i2m4h6-7",
+                    "i2m4h6-7-3",
+                    "i2m4h6-7-4",
+                    "i2m4h6-7-5",
+                    "i2m4h6-7-6"
+                  ],
+                  "attributes": {
+                    "id": "i2m4h6-7-2"
+                  },
+                  "content": "Licensed under",
+                  "type": "textnode"
+                }
+              ],
+              "selector": {
+                "mainSelector": {
+                  "pseudoClass": null,
+                  "selectors": [
+                    {
+                      "active": true,
+                      "type": "id",
+                      "value": "iha89s000"
+                    },
+                    {
+                      "active": true,
+                      "type": "class",
+                      "value": "docs-footer__bottom-p"
+                    }
+                  ]
+                }
+              },
+              "tagName": "p",
+              "type": "text"
+            },
+            {
+              "__symbols": [
+                "izfjej-4-2",
+                "izfjej-4-2-3",
+                "izfjej-4-2-4",
+                "izfjej-4-2-5",
+                "izfjej-4-2-6"
+              ],
+              "attributes": {
+                "href": "https://creativecommons.org/licenses/by/4.0/",
+                "id": "izfjej-4-2-2",
+                "rel": "noopener",
+                "target": "_blank"
+              },
+              "components": [
+                {
+                  "__symbols": [
+                    "iiwe1r-4-2",
+                    "iiwe1r-4-2-3",
+                    "iiwe1r-4-2-4",
+                    "iiwe1r-4-2-5",
+                    "iiwe1r-4-2-6"
+                  ],
+                  "attributes": {
+                    "id": "iiwe1r-4-2-2"
+                  },
+                  "content": "CC BY 4.0",
+                  "type": "textnode"
+                }
+              ],
+              "type": "link"
+            },
+            {
+              "__symbols": [
+                "i1k7yk-3-2-7-7",
+                "i1k7yk-3-2-7-7-3",
+                "i1k7yk-3-2-7-7-4",
+                "i1k7yk-3-2-7-7-5",
+                "i1k7yk-3-2-7-7-6"
+              ],
+              "attributes": {
+                "id": "i1k7yk-3-2-7-7-2",
+                "viewBox": "0 0 496 512",
+                "xmlns": "http://www.w3.org/2000/svg"
+              },
+              "classes": [
+                "cc-icon"
+              ],
+              "components": [
+                {
+                  "__symbols": [
+                    "ii0h6q-3-2-7-7",
+                    "ii0h6q-3-2-7-7-3",
+                    "ii0h6q-3-2-7-7-4",
+                    "ii0h6q-3-2-7-7-5",
+                    "ii0h6q-3-2-7-7-6"
+                  ],
+                  "attributes": {
+                    "d": "M314.9 194.4v101.4h-28.3v120.5h-56.1V295.9h-28.4V194.4c0-21.6 12.7-39.6 30.6-47.2 4-12.4 15.4-21.2 28.9-21.2 13.4 0 24.7 8.8 28.8 21.2 17.8 7.6 30.5 25.5 30.5 47.2zm-63.5-73.4c14.4 0 26-11.6 26-26s-11.6-26-26-26-26 11.6-26 26 11.6 26 26 26zM247.4 8C110.8 8 0 118.8 0 256s110.8 248 247.4 248c136.6 0 247.4-110.8 247.4-248S384 8 247.4 8zm.8 451.9c-112.5 0-203.7-91.2-203.7-203.7S135.7 52.4 248.2 52.4s203.8 91.2 203.8 203.7-91.3 203.8-203.8 203.8z",
+                    "fill": "currentColor",
+                    "id": "ii0h6q-3-2-7-7-2"
+                  },
+                  "resizable": {
+                    "ratioDefault": true
+                  },
+                  "tagName": "path",
+                  "type": "svg-in"
+                }
+              ],
+              "resizable": {
+                "ratioDefault": true
+              },
+              "type": "svg"
+            },
+            {
+              "__symbols": [
+                "inlr83-3-2-7-7",
+                "inlr83-3-2-7-7-3",
+                "inlr83-3-2-7-7-4",
+                "inlr83-3-2-7-7-5",
+                "inlr83-3-2-7-7-6"
+              ],
+              "attributes": {
+                "id": "inlr83-3-2-7-7-2",
+                "viewBox": "0 0 496 512",
+                "xmlns": "http://www.w3.org/2000/svg"
+              },
+              "classes": [
+                "cc-icon"
+              ],
+              "components": [
+                {
+                  "__symbols": [
+                    "ipuqgu-3-2-7-7",
+                    "ipuqgu-3-2-7-7-3",
+                    "ipuqgu-3-2-7-7-4",
+                    "ipuqgu-3-2-7-7-5",
+                    "ipuqgu-3-2-7-7-6"
+                  ],
+                  "attributes": {
+                    "d": "M245.83 214.87l-33.22 17.28c-9.43-19.58-25.24-19.93-27.46-19.93-22.13 0-33.22 14.61-33.22 43.89 0 28.67 11.09 43.35 33.22 43.35 22.13 0 35.51-14.61 35.51-34.93h31.9c0 30.23-25.5 58.01-64.86 58.01-44.5 0-66.21-25.13-66.21-66.43 0-41.02 21.71-66.97 66.21-66.97 31.62 0 60.16 19.33 60.16 45.73zm114.2 0l-33.22 17.28c-9.43-19.58-25.24-19.93-27.46-19.93-22.13 0-33.22 14.61-33.22 43.89 0 28.67 11.09 43.35 33.22 43.35 22.13 0 35.51-14.61 35.51-34.93h31.9c0 30.23-25.5 58.01-64.86 58.01-44.5 0-66.21-25.13-66.21-66.43 0-41.02 21.71-66.97 66.21-66.97 31.62 0 60.16 19.33 60.16 45.73zM247.42 8C110.77 8 0 118.78 0 256s110.77 248 247.42 248C384.06 504 494.83 393.22 494.83 256 494.83 118.78 384.06 8 247.42 8zm.84 451.91c-112.53 0-203.74-91.21-203.74-203.74S135.73 52.43 248.26 52.43s203.74 91.21 203.74 203.74-91.21 203.74-203.74 203.74z",
+                    "fill": "currentColor",
+                    "id": "ipuqgu-3-2-7-7-2"
+                  },
+                  "resizable": {
+                    "ratioDefault": true
+                  },
+                  "tagName": "path",
+                  "type": "svg-in"
+                }
+              ],
+              "resizable": {
+                "ratioDefault": true
+              },
+              "type": "svg"
+            }
+          ],
+          "selector": {
+            "mainSelector": {
+              "pseudoClass": null,
+              "selectors": [
+                {
+                  "active": true,
+                  "type": "id",
+                  "value": "i58k9g"
+                },
+                {
+                  "active": true,
+                  "type": "class",
+                  "value": "docs-footer__bottom"
+                },
+                {
+                  "active": false,
+                  "type": "class",
+                  "value": "docs-container"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "custom-name": "Footer",
+      "icon": "fa-window-minimize",
+      "tagName": "footer"
+    },
+    {
+      "__symbols": [
+        "i7gvc3-2",
+        "i7gvc3-2-3",
+        "i7gvc3-2-3-2"
+      ],
+      "attributes": {
+        "id": "i7gvc3-2-2"
+      },
+      "classes": [
+        "docs-sidebar"
+      ],
+      "components": [
+        {
+          "__symbols": [
+            "ix8uho-2",
+            "ix8uho-2-3",
+            "ix8uho-2-3-2"
+          ],
+          "attributes": {
+            "id": "ix8uho-2-2"
+          },
+          "classes": [
+            "docs-sidebar__section"
+          ],
+          "components": [
+            {
+              "__symbols": [
+                "irlx7i-2",
+                "irlx7i-2-3",
+                "irlx7i-2-3-2"
+              ],
+              "attributes": {
+                "href": "./docs.html",
+                "id": "irlx7i-2-2"
+              },
+              "classes": [
+                "docs-sidebar__title"
+              ],
+              "content": "Getting Started",
+              "originalTagName": "div",
+              "tagName": "A",
+              "type": "text"
+            },
+            {
+              "__symbols": [
+                "i2dckd-2",
+                "i2dckd-2-3",
+                "i2dckd-2-3-2"
+              ],
+              "attributes": {
+                "id": "i2dckd-2-2"
+              },
+              "classes": [
+                "docs-sidebar__list"
+              ],
+              "components": [
+                {
+                  "__symbols": [
+                    "i72s5y-2",
+                    "i72s5y-2-3",
+                    "i72s5y-2-3-2"
+                  ],
+                  "attributes": {
+                    "id": "i72s5y-2-2"
+                  },
+                  "components": [
+                    {
+                      "__symbols": [
+                        "i0lrqw-2",
+                        "i0lrqw-2-3",
+                        "i0lrqw-2-3-2"
+                      ],
+                      "attributes": {
+                        "href": "/docs#introduction",
+                        "id": "i0lrqw-2-2"
+                      },
+                      "classes": [
+                        "docs-sidebar__link"
+                      ],
+                      "content": "Introduction",
+                      "selector": {
+                        "mainSelector": {
+                          "pseudoClass": {
+                            "hasParam": false,
+                            "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/:focus",
+                            "sentencePre": "When it has the",
+                            "type": "focus"
+                          },
+                          "selectors": [
+                            {
+                              "active": false,
+                              "type": "id",
+                              "value": "i0lrqw-2"
+                            },
+                            {
+                              "active": true,
+                              "type": "class",
+                              "value": "docs-sidebar__link"
+                            }
+                          ]
+                        }
+                      },
+                      "tagName": "a",
+                      "type": "text"
+                    }
+                  ],
+                  "tagName": "li"
+                },
+                {
+                  "__symbols": [
+                    "ioie2l-2",
+                    "ioie2l-2-3",
+                    "ioie2l-2-3-2"
+                  ],
+                  "attributes": {
+                    "id": "ioie2l-2-2"
+                  },
+                  "components": [
+                    {
+                      "__symbols": [
+                        "imw91s-2",
+                        "imw91s-2-3",
+                        "imw91s-2-3-2"
+                      ],
+                      "attributes": {
+                        "href": "/docs#installation",
+                        "id": "imw91s-2-2"
+                      },
+                      "classes": [
+                        "docs-sidebar__link"
+                      ],
+                      "content": "Installation",
+                      "selector": {
+                        "mainSelector": {
+                          "pseudoClass": null,
+                          "selectors": [
+                            {
+                              "active": false,
+                              "type": "id",
+                              "value": "imw91s-2"
+                            },
+                            {
+                              "active": true,
+                              "type": "class",
+                              "value": "docs-sidebar__link"
+                            }
+                          ]
+                        }
+                      },
+                      "tagName": "a",
+                      "type": "text"
+                    }
+                  ],
+                  "tagName": "li"
+                },
+                {
+                  "__symbols": [
+                    "i7bvxh-2",
+                    "i7bvxh-2-3",
+                    "i7bvxh-2-3-2"
+                  ],
+                  "attributes": {
+                    "id": "i7bvxh-2-2"
+                  },
+                  "components": [
+                    {
+                      "__symbols": [
+                        "iao0su-2",
+                        "iao0su-2-3",
+                        "iao0su-2-3-2"
+                      ],
+                      "attributes": {
+                        "href": "/docs#quickstart",
+                        "id": "iao0su-2-2"
+                      },
+                      "classes": [
+                        "docs-sidebar__link"
+                      ],
+                      "content": "Quick Start",
+                      "tagName": "a",
+                      "type": "text"
+                    }
+                  ],
+                  "tagName": "li"
+                }
+              ],
+              "tagName": "ul"
+            }
+          ]
+        },
+        {
+          "__symbols": [
+            "ixzew6-2",
+            "ixzew6-2-3",
+            "ixzew6-2-3-2"
+          ],
+          "attributes": {
+            "id": "ixzew6-2-2"
+          },
+          "classes": [
+            "docs-sidebar__section"
+          ],
+          "components": [
+            {
+              "__symbols": [
+                "itjnoj-2",
+                "itjnoj-2-3",
+                "itjnoj-2-3-2"
+              ],
+              "attributes": {
+                "href": "./core-concepts.html",
+                "id": "itjnoj-2-2"
+              },
+              "classes": [
+                "docs-sidebar__title"
+              ],
+              "content": "Core Concepts",
+              "originalTagName": "div",
+              "tagName": "A",
+              "type": "text"
+            },
+            {
+              "__symbols": [
+                "icbmn5-2",
+                "icbmn5-2-3",
+                "icbmn5-2-3-2"
+              ],
+              "attributes": {
+                "id": "icbmn5-2-2"
+              },
+              "classes": [
+                "docs-sidebar__list"
+              ],
+              "components": [
+                {
+                  "__symbols": [
+                    "i18gp8-2",
+                    "i18gp8-2-3",
+                    "i18gp8-2-3-2"
+                  ],
+                  "attributes": {
+                    "id": "i18gp8-2-2"
+                  },
+                  "components": [
+                    {
+                      "__symbols": [
+                        "i5s5th-2",
+                        "i5s5th-2-3",
+                        "i5s5th-2-3-2"
+                      ],
+                      "attributes": {
+                        "href": "/core-concepts#components",
+                        "id": "i5s5th-2-2"
+                      },
+                      "classes": [
+                        "docs-sidebar__link"
+                      ],
+                      "content": "Components",
+                      "tagName": "a",
+                      "type": "text"
+                    }
+                  ],
+                  "tagName": "li"
+                },
+                {
+                  "__symbols": [
+                    "im2b7a-2",
+                    "im2b7a-2-3",
+                    "im2b7a-2-3-2"
+                  ],
+                  "attributes": {
+                    "id": "im2b7a-2-2"
+                  },
+                  "components": [
+                    {
+                      "__symbols": [
+                        "ibw975-2",
+                        "ibw975-2-3",
+                        "ibw975-2-3-2"
+                      ],
+                      "attributes": {
+                        "href": "/core-concepts#configuration",
+                        "id": "ibw975-2-2"
+                      },
+                      "classes": [
+                        "docs-sidebar__link"
+                      ],
+                      "content": "Configuration",
+                      "tagName": "a",
+                      "type": "text"
+                    }
+                  ],
+                  "tagName": "li"
+                },
+                {
+                  "__symbols": [
+                    "i0pavn-2",
+                    "i0pavn-2-3",
+                    "i0pavn-2-3-2"
+                  ],
+                  "attributes": {
+                    "id": "i0pavn-2-2"
+                  },
+                  "components": [
+                    {
+                      "__symbols": [
+                        "i0m5wg-2",
+                        "i0m5wg-2-3",
+                        "i0m5wg-2-3-2"
+                      ],
+                      "attributes": {
+                        "href": "/core-concepts#theming",
+                        "id": "i0m5wg-2-2"
+                      },
+                      "classes": [
+                        "docs-sidebar__link"
+                      ],
+                      "content": "Theming",
+                      "originalTagName": "DIV",
+                      "tagName": "A",
+                      "type": "text"
+                    }
+                  ],
+                  "tagName": "li"
+                }
+              ],
+              "tagName": "ul"
+            }
+          ]
+        },
+        {
+          "__symbols": [
+            "iq44xj-2",
+            "iq44xj-2-3",
+            "iq44xj-2-3-2"
+          ],
+          "attributes": {
+            "id": "iq44xj-2-2"
+          },
+          "classes": [
+            "docs-sidebar__section"
+          ],
+          "components": [
+            {
+              "__symbols": [
+                "i1y88g-2",
+                "i1y88g-2-3",
+                "i1y88g-2-3-2"
+              ],
+              "attributes": {
+                "href": "./advanced.html",
+                "id": "i1y88g-2-2"
+              },
+              "classes": [
+                "docs-sidebar__title"
+              ],
+              "content": "Advanced",
+              "originalTagName": "div",
+              "tagName": "A",
+              "type": "text"
+            },
+            {
+              "__symbols": [
+                "i7jpt5-2",
+                "i7jpt5-2-3",
+                "i7jpt5-2-3-2"
+              ],
+              "attributes": {
+                "id": "i7jpt5-2-2"
+              },
+              "classes": [
+                "docs-sidebar__list"
+              ],
+              "components": [
+                {
+                  "__symbols": [
+                    "iho8lf-2",
+                    "iho8lf-2-3",
+                    "iho8lf-2-3-2"
+                  ],
+                  "attributes": {
+                    "id": "iho8lf-2-2"
+                  },
+                  "components": [
+                    {
+                      "__symbols": [
+                        "i19t6z-2",
+                        "i19t6z-2-3",
+                        "i19t6z-2-3-2"
+                      ],
+                      "attributes": {
+                        "href": "/advanced#plugins",
+                        "id": "i19t6z-2-2"
+                      },
+                      "classes": [
+                        "docs-sidebar__link"
+                      ],
+                      "content": "Plugins",
+                      "tagName": "a",
+                      "type": "text"
+                    }
+                  ],
+                  "tagName": "li"
+                },
+                {
+                  "__symbols": [
+                    "iuuc2m-2",
+                    "iuuc2m-2-3",
+                    "iuuc2m-2-3-2"
+                  ],
+                  "attributes": {
+                    "id": "iuuc2m-2-2"
+                  },
+                  "components": [
+                    {
+                      "__symbols": [
+                        "ifk13g-2",
+                        "ifk13g-2-3",
+                        "ifk13g-2-3-2"
+                      ],
+                      "attributes": {
+                        "href": "/advanced#deployment",
+                        "id": "ifk13g-2-2"
+                      },
+                      "classes": [
+                        "docs-sidebar__link"
+                      ],
+                      "content": "Deployment",
+                      "tagName": "a",
+                      "type": "text"
+                    }
+                  ],
+                  "tagName": "li"
+                },
+                {
+                  "__symbols": [
+                    "i9scmr-2",
+                    "i9scmr-2-3",
+                    "i9scmr-2-3-2"
+                  ],
+                  "attributes": {
+                    "id": "i9scmr-2-2"
+                  },
+                  "components": [
+                    {
+                      "__symbols": [
+                        "ieodxw-2",
+                        "ieodxw-2-3",
+                        "ieodxw-2-3-2"
+                      ],
+                      "attributes": {
+                        "href": "/advanced#troubleshooting",
+                        "id": "ieodxw-2-2"
+                      },
+                      "classes": [
+                        "docs-sidebar__link"
+                      ],
+                      "content": "Troubleshooting",
+                      "tagName": "a",
+                      "type": "text"
+                    }
+                  ],
+                  "tagName": "li"
+                }
+              ],
+              "tagName": "ul"
+            }
+          ]
+        }
+      ],
+      "custom-name": "aside-menu",
+      "tagName": "aside"
+    }
+  ]
+}
